@@ -1,0 +1,157 @@
+/* html5doctor.com Reset v1.6.1 (http://html5doctor.com/html-5-reset-stylesheet/) - http://cssreset.com */
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}
+body{line-height:1}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
+nav ul{list-style:none}
+blockquote,q{quotes:none}
+blockquote:before,blockquote:after,q:before,q:after{content:none}
+a{margin:0;padding:0;font-size:100%;vertical-align:baseline;background:transparent}
+ins{background-color:#ff9;color:#000;text-decoration:none}
+mark{background-color:#ff9;color:#000;font-style:italic;font-weight:bold}
+del{text-decoration:line-through}
+abbr[title],dfn[title]{border-bottom:1px dotted;cursor:help}
+table{border-collapse:collapse;border-spacing:0}
+hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0}
+input,select{vertical-align:middle}
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+
+.clearfix {
+	display: inline-block;
+}
+
+html[xmlns] .clearfix {
+	display: block;
+}
+
+* html .clearfix {
+	height: 1%;
+}
+
+body {
+    background: none repeat scroll 0 0 #FFFFFF;
+    color: #333333;
+    font-family: georgia,serif;
+    height: 100%;
+    margin: 0 auto;
+    min-height: 100%;
+    padding: 50px 48px 0;
+    width: 1120px;
+/*    max-width: 1120px;
+    min-width: 800px;*/
+}
+a {
+    text-decoration: none;
+     color: #000;
+}
+#main {
+    float: left;
+    margin-bottom: 25px;
+    width: 182px;
+}
+
+h1#branding a {
+    background: url("../img/logo.png") no-repeat scroll  center bottom transparent;
+    display: block;
+    height: 185px;
+    transition: all 0.3s ease 0s;
+    width: 135px;
+    color:#000;
+    text-decoration: none;
+    text-align: center;
+}
+
+nav li {
+    display: block;
+    margin-bottom: 8px;
+}
+
+nav li:last-child {
+    margin: 0;
+}
+
+nav a {
+    color: #e347bd;
+    display: block;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: normal;
+    height: 28px;
+    transition: all 0.2s ease 0s;
+}
+
+nav a:hover {
+    color: #eeaacc; /*#87b2ab*/
+}
+
+nav a {
+    background-position: 0 65%;
+    background-repeat: no-repeat;
+}
+
+nav li a:hover {
+    background-position: 5px 65%;
+}
+
+header nav a  {
+    padding: 4px 0 0 50px;
+}
+
+li#nav-boudha a {
+    background-image: url("../img/nav/boudha.png");
+    padding-top: 19px;
+}
+
+li#nav-beauty a {
+    background-image: url("../img/nav/beauty.png");
+}
+
+li#nav-massage a {
+    background-image: url("../img/nav/massage.png");
+}
+
+li#nav-office a {
+    background-image: url("../img/nav/office.png");
+}
+
+li#nav-contact a {
+    background-image: url("../img/nav/contact.png");
+}
+
+li#nav-prices a {
+    background-image: url("../img/nav/prices.png");
+}
+
+li#nav-twitter a {
+    background-image: url("../img/nav/twitter.png");
+}
+
+li#nav-facebook a {
+    background-image: url("../img/nav/facebook.png");
+}
+
+
+h1 {
+    font-size: 26px;
+    font-style: italic;
+}
+
+#content {
+    float: left;
+    max-width:928px;
+}
+
+
+footer[role="siteinfo"] {
+    border-top: 2px solid #E5E5E5;
+    clear: both;
+    min-height: 70px;
+    padding-top: 20px;
+    position: relative;
+}

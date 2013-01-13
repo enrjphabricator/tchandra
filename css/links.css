@@ -1,0 +1,22 @@
+
+#links{
+    text-align: center;
+    border-bottom: 1px dashed #E5E5E5;
+    border-top: 1px dashed #E5E5E5;
+    clear: both;
+    line-height: 1em;
+    margin-bottom: 20px;
+    overflow: hidden;
+    width: 100%;
+    padding: 10px 0;
+}
+
+#links ul{
+    list-style: none outside none;
+}
+
+#links a{
+    color: #E347BD;
+    font-style: italic;
+    text-decoration: underline;
+}

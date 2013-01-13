@@ -1,0 +1,52 @@
+/*
+    Document   : list.css
+    Created on : 7 janv. 2013, 22:44:16
+    Author     : Karma
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#articles article {
+    height: 460px;
+    width: 190px;
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #E5E5E5;
+    box-shadow: 1px 1px 3px #F5F5F5;
+    float: left;
+    margin: 0 20px 20px 0;
+    overflow: visible;
+    padding: 10px;
+    position: relative;
+
+}
+
+#articles article h1 a {
+   color: #E347BD;
+   font-size: 20px;
+   font-style: italic;
+}
+#articles article a {
+    display: block;
+    font-weight: normal;
+    margin-bottom: 10px;
+}
+
+#articles article p a{
+    text-align: justify;
+    color: #000;
+}
+
+#articles article p#price{
+    color: #E347BD;
+    font-size: 16px;
+    font-style: italic;
+    position:absolute;
+    bottom: 20px;
+}
+
+#articles article a img {
+    transition: opacity 0.2s ease 0s;
+}
+#articles article a img:hover {
+    opacity: 0.75;
+}

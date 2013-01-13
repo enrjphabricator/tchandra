@@ -1,0 +1,33 @@
+---
+css:  [/css/list.css, /css/links.css, /css/massages.css]
+lead: "Massage chinois"
+title: "Massage &eacute;nerg&eacute;tique chinois &quot;chrong mai&quot;"
+small_image: /img/articles/massages/chinois/small.jpg
+big_image: /img/articles/massages/chinois/big.jpg
+layout: massages
+permalink: massages/chinois.html
+time: 1h
+price: 50
+slug: chinois
+links: [tarifs, balinais]
+bad: ["Femmes enceintes", "Etats inflammatoires", "Phl&eacute;bite", "Fi&egrave;vre", "Hypertension non trait&eacute;e"]
+description: "Pour faire le plein d&rsquo;&eacute;nergie &agrave; tous moments de l&rsquo;ann&eacute;e. Ce massage vous garantit de retrouver la p&ecirc;che!"
+---
+Massage au protocole très précis issu de la médecine 
+traditionnelle chinoise.
+ Selon cette médecine douce, certains points 
+d'acupuncture se bloquent et empêchent une bonne 
+circulation de l'énergie dans le corps. 
+Ce soin énergétique vise à agir sur ces points situés 
+sur les méridiens de la rate-pancréas, de l’estomac, 
+de la vessie, du rein...
+Frictions, lissages et stimulation des points 
+énergétiques à travers l’acupression et le cristal de 
+roche permettent de relancer les énergies, de retrouver 
+la forme après un manque de tonus .
+Ce massage est recommandé en cas de dépression, 
+convalescence, extrême fatigue, perte de la libido, 
+changement de saison, après un accouchement ou un 
+choc émotionnel.
+
+

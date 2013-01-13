@@ -1,0 +1,24 @@
+---
+css:  [/css/list.css, /css/links.css, /css/massages.css]
+lead: "Massage du dos"
+title: "Massage du dos"
+small_image: /img/articles/massages/dos/small.jpg
+big_image: /img/articles/massages/dos/big.jpg
+layout: massages
+permalink: massages/dos.html
+time: 0h30
+price: 30
+slug: dos
+links: [tarifs, balinais]
+advice: ["Ce soin peut &ecirc;tre &eacute;galement recommand&eacute; aux personnes qui se font masser pour la premi&egrave;re fois."]
+description: "Massage id&eacute;al pour tous ceux qui en ont plein le dos!"
+---
+Détente rapide avec ce massage d’une demi heure
+essentiellement  basé sur le dos, les trapèzes, la nuque
+et le crâne.
+Ce massage court permet de dénouer les tensions
+accumulées dans cette zone et garantit aux personnes
+n’ayant pas le temps un moment de bien-être
+"express".
+
+

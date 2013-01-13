@@ -1,0 +1,60 @@
+h2 a {
+    background: url("../img/nav/massage.png") 0 12px no-repeat;
+    padding: 7px 0 12px 45px;
+    color: #E347BD;
+    font-size: 28px;
+    font-style: italic;
+    font-weight: normal;
+    display: block;
+}
+
+h1 {
+    display: inline-block;
+}
+
+article.main img {
+   float: left;
+   border: 1px solid #E5E5E5;
+   box-shadow: 1px 1px 3px #F5F5F5;
+   padding: 9px;
+   margin: 0 20px 10px 0;
+}
+
+article.main p {
+   text-align: justify;
+   font-size: 18px;
+}
+
+article.main header {
+    border-bottom: 1px dashed #E5E5E5;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+
+article.main header p {
+    display: inline-block;
+    color: #E347BD;
+    font-size: 26px;
+    font-style: italic;
+}
+
+article.main div {
+    display:block;
+    float:left;
+    max-width: 568px
+}
+article.main {
+    margin-bottom: 20px;
+}
+
+section h1 {
+    color: #E347BD;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: normal;
+    margin: 10px 0;
+}
+
+section ul {
+     list-style: none inside none;
+}

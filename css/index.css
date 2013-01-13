@@ -1,0 +1,138 @@
+/*
+    Document   : home
+    Created on : 29 déc. 2012, 12:38:54
+    Author     : Karma
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#slider {
+    float:left;
+    overflow: hidden;
+    margin-bottom: 20px;
+    width: 100%
+}
+
+#slider nav {
+    background: none repeat scroll 0 0 #E347BD;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+#slider nav ul {
+    display: table;
+    margin: 0 auto;
+    max-width: 928px;
+    min-width: 800px;
+    overflow: hidden;
+    text-align: center;
+    width: 100%;
+    line-height: 0;
+}
+
+#slider nav li {
+    display: table-cell;
+    min-width: 130px;
+    margin: 0 auto;
+}
+
+#slider nav h3 {
+    display: block;
+    text-align: center;
+}
+
+
+#slider nav a {
+    line-height: 3;
+    border-right: 1px solid #fff;
+    display: block;
+    float: left;
+    text-shadow: 0 1px 0 #000;
+    height: 60px;
+    width: 100%;
+    color: #FFFFFF;
+}
+
+#slider nav li :hover{
+    background: none repeat scroll 0 0 #eeaacc;
+    text-shadow: 0 1px 0 #fff;
+    color: #000;
+}
+
+#slider nav li.hover a {
+    background: none repeat scroll 0 0 #eeaacc;
+    text-shadow: 0 1px 0 #fff;
+    color: #000;
+}
+
+#slide-massage hgroup, #slide-beauty hgroup, #slide-office hgroup {
+    left: 0;
+    right: auto;
+    top:320px;
+}
+
+#slide-beauty hgroup, #slide-office hgroup {
+    top:80px;
+}
+
+#slide-massage h2, #slide-beauty h2, #slide-office h2  {
+    float:left;
+}
+
+#slide-tchandra hgroup, #slide-prices hgroup, #slide-contact hgroup {
+    left: auto;
+    right: 0;
+    top:320px;
+}
+
+#slide-prices hgroup {
+    top:80px;
+}
+
+#slide-tchandra h2, #slide-prices h2, #slide-contact h2 {
+    float:right;
+}
+
+#slides article {
+     position: relative;
+     line-height:0;
+}
+
+#slides hgroup:hover {
+    opacity: 1;
+}
+
+#slides hgroup {
+    transition: opacity 0.2s ease 0s;
+    opacity: 0.8;
+    line-height:1;
+}
+
+#slides h1 {
+    background: none repeat scroll 0 0 #FFFFFF;
+    padding: 10px 24px 15px;
+}
+
+#slides h2 {
+    background: none repeat scroll 0 0 #111111;
+    padding: 8px 24px 12px;
+}
+
+#slides h1 a{
+    color: #222222;
+    font-size: 1.5em;
+}
+
+#slides h2 a{
+    color: #E9E9E9;
+    font-size: 1em;
+    font-weight: normal;
+}
+
+#slides img {
+   z-index: -1;
+}
+
+#slides hgroup {
+   position:absolute;
+}

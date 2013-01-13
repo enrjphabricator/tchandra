@@ -1,0 +1,46 @@
+{% include head.html %}
+<div id="content">
+    <article class="main clearfix">
+        <header>
+            <h2><a href="{{ site.baseurl }}/massages.html">Massages</a></h2>
+            <h1>{{page.title}}</h1><p>&nbsp;-&nbsp;{{page.time}} / {{page.price}} &euro;</p>
+        </header>
+        <img src="{{ site.baseurl }}/{{ page.big_image }}" >
+        <div>
+        {{ content }}
+            {% if page.good %}
+            <section>
+                <h1>Les bienfaits du massage</h1>
+                <ul>
+                {% for g in page.good %}
+                    <li>{{g}}</li>
+                {% endfor %}
+                </ul>
+            </section>
+            {% endif %}
+            {% if page.bad %}
+            <section>
+                <h1>Les contres indications</h1>
+                <ul>
+                {% for b in page.bad %}
+                    <li>{{b}}</li>
+                {% endfor %}
+                </ul>
+            </section>
+            {% endif %}
+            {% if page.advice%}
+            <section>
+                <h1>Les petits conseils</h1>
+                <ul>
+                {% for a in page.advice %}
+                    <li>{{a}}</li>
+                {% endfor %}
+                </ul>
+            </section>
+            {% endif %}
+        </div>
+    </article>
+    {% include links.html %}
+    {% include articles.html %}
+</div>
+{% include footer.html %}
