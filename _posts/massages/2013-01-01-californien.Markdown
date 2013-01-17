@@ -1,6 +1,6 @@
 ---
 css:  [/css/list.css, /css/links.css, /css/massages.css]
-lead: "Massage traditionnel tha&iuml;"
+lead: "Massage californien"
 title: "Massage californien"
 small_image: /img/articles/massages/californien/small.jpg
 big_image: /img/articles/massages/relaxant/big.jpg

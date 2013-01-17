@@ -1,7 +1,7 @@
 ---
 css:  [/css/list.css, /css/links.css, /css/massages.css]
-lead: "Massage du relaxant"
-title: "Massage relaxant aux huiles esentielles bio"
+lead: "Massage relaxant aux huiles essentielles bio"
+title: "Massage relaxant aux huiles essentielles bio"
 small_image: /img/articles/massages/relaxant/small.jpg
 big_image: /img/articles/massages/relaxant/big.jpg
 layout: massages
@@ -9,7 +9,7 @@ permalink: massages/relaxant.html
 time: 1h
 price: 50
 slug: relaxant
-links: [tarifs, balinais]
+links: [tarifs, pierres, californien]
 good: ["Relaxe",  "d&eacute;stresse", "d&eacute;tend"]
 bad: ["Etats inflammatoires", "Phl&eacute;bite", "Fi&egrave;vre", "Hypertension non trait&eacute;e"]
 description: "Un massage tout en douceur aux huiles essentielles de lavande, camomille pour  l&acirc;cher prise et d&eacute;connecter."
