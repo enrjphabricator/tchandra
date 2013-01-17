@@ -20,11 +20,6 @@ article.main img {
    margin: 0 20px 10px 0;
 }
 
-article.main p {
-   text-align: justify;
-   font-size: 18px;
-}
-
 article.main header {
     border-bottom: 1px dashed #E5E5E5;
     margin-bottom: 20px;
@@ -56,5 +51,5 @@ section h1 {
 }
 
 section ul {
-     list-style: none inside none;
+     list-style: disc inside none;
 }

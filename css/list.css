@@ -7,7 +7,7 @@
 */
 
 #articles article {
-    height: 460px;
+    height: 500px;
     width: 190px;
     background: none repeat scroll 0 0 #FFFFFF;
     border: 1px solid #E5E5E5;
@@ -20,9 +20,13 @@
 
 }
 
+#articles article h1 {
+    margin: 0;
+}
+
 #articles article h1 a {
    color: #E347BD;
-   font-size: 20px;
+   font-size: 18px;
    font-style: italic;
 }
 #articles article a {
@@ -32,7 +36,6 @@
 }
 
 #articles article p a{
-    text-align: justify;
     color: #000;
 }
 
