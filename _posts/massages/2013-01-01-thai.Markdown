@@ -1,27 +1,38 @@
 ---
 css:  [/css/list.css, /css/links.css, /css/massages.css]
 lead: "Massage traditionnel tha&iuml;"
-title: "Massage relaxant aux huiles esentielles bio"
+title: "Massage traditionnel tha&iuml;"
 small_image: /img/articles/massages/thai/small.jpg
-big_image: /img/articles/massages/relaxant/big.jpg
+big_image: /img/articles/massages/thai/big.jpg
 layout: massages
-permalink: massages/relaxant.html
+permalink: massages/thai.html
 time: 1h30
 price: 75
 slug: thai
 links: [tarifs, balinais]
-good: ["Relaxe",  "d&eacute;stresse", "d&eacute;tend"]
-bad: ["Etats inflammatoires", "Phl&eacute;bite", "Fi&egrave;vre", "Hypertension non trait&eacute;e"]
+good: ["Elimination des toxines", "Augmentation de la d&eacute;fense immunitaire", "Meilleure souplesse corporelle", "Stimulation des circulations sanguine et lymphatique", "Plus grand confort de vie"]
+bad: ["Fractures", "Entorses", "Fi&egrave;vre", "Cardiopathie s&eacute;v&egrave;re", "Phl&eacute;bite", "Varice", "Inflammation musculaire", "Diab&egrave;te insulinod&eacute;pendant ( pour ce cas, la pression du massage devra &ecirc;tre faible)"]
 description: "&quot;Le yoga des paresseux&quot; Ce massage vous permettra  de retrouver une certaine souplesse et de d&eacute;nouer les tensions accumul&eacute;es."
 ---
-Ce soin permet de se détendre, de se relaxer en 
-douceur pour évacuer tout le stress accumulé. 
-En englobant le corps, il permet également une 
-intégration complète du schéma corporel à la 
-conscience. 
-Il est composé d’effleurages lents et harmonieux , 
-de lissages fluides et longs , de bercements et de 
-pétrissages doux.
+Massage qui se reçoit habillé, au sol sur 
+un futon. 
+Vieux de 2500 ans, il est inspiré des asanas 
+(postures) du yoga et est également appelé 
+"le yoga des paresseux".
+Selon la tradition indienne, le prana 
+(énergie) circule dans le corps par les nadis, 
+un réseau de 72000 canaux énergétiques 
+qui permettent la diffusion du souffle vital 
+dans le corps.
+Lorsque l’énergie est bloquée ou restreinte, 
+un déséquilibre s’ensuit et entraine des 
+problèmes de santé. 
+Pour traiter le corps tout entier, le massage thaï se concentre sur 10 des principaux canaux 
+énergétiques. 
+Il permet de dénouer nœuds et blocages grâce à des exercices d'extension et d'étirement 
+relativement physiques. 
+Les pressions profondes exercées avec les paumes de la main et les pouces permettent 
+d'harmoniser la circulation de l'énergie dans tout le corps et de se détendre en profondeur.
 
 
 

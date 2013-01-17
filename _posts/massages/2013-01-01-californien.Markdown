@@ -5,7 +5,7 @@ title: "Massage californien"
 small_image: /img/articles/massages/californien/small.jpg
 big_image: /img/articles/massages/relaxant/big.jpg
 layout: massages
-permalink: massages/relaxant.html
+permalink: massages/californien.html
 time: 1h15
 price: 60
 slug: californien
