@@ -1,10 +1,12 @@
 ---
-css:  [/css/list.css, /css/links.css, /css/massages.css]
+css:  [/css/list.css, /css/links.css, /css/article.css]
 lead: "Massage du dos"
 title: "Massage du dos"
 small_image: /img/articles/massages/dos/small.jpg
 big_image: /img/articles/massages/dos/big.jpg
-layout: massages
+layout: article
+section: massages
+section_title: Massages
 permalink: massages/dos.html
 time: 0h30
 price: 30

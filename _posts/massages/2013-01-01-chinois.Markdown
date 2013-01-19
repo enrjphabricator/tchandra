@@ -1,10 +1,12 @@
 ---
-css:  [/css/list.css, /css/links.css, /css/massages.css]
+css:  [/css/list.css, /css/links.css, /css/article.css]
 lead: "Massage chinois"
 title: "Massage &eacute;nerg&eacute;tique chinois &quot;chrong mai&quot;"
 small_image: /img/articles/massages/chinois/small.jpg
 big_image: /img/articles/massages/chinois/big.jpg
-layout: massages
+layout: article
+section: massages
+section_title: Massages
 permalink: massages/chinois.html
 time: 1h
 price: 50

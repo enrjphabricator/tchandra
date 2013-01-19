@@ -1,10 +1,12 @@
 ---
-css:  [/css/list.css, /css/links.css, /css/massages.css]
+css:  [/css/list.css, /css/links.css, /css/article.css]
 lead: "Massage californien"
 title: "Massage californien"
 small_image: /img/articles/massages/californien/small.jpg
 big_image: /img/articles/massages/relaxant/big.jpg
-layout: massages
+layout: article
+section: massages
+section_title: Massages
 permalink: massages/californien.html
 time: 1h15
 price: 60

@@ -1,10 +1,12 @@
 ---
-css:  [/css/list.css, /css/links.css, /css/massages.css]
+css:  [/css/list.css, /css/links.css, /css/article.css]
 lead: "R&eacute;flexologie"
 title: "R&eacute;flexologie plantaire"
 small_image: /img/articles/massages/reflexiologique/small.jpg
 big_image: /img/articles/massages/reflexiologique/big.jpg
-layout: massages
+layout: article
+section: massages
+section_title: Massages
 permalink: massages/reflexiologique.html
 time: 1h
 price: 50

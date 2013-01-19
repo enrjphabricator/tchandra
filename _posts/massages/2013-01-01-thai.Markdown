@@ -1,10 +1,12 @@
 ---
-css:  [/css/list.css, /css/links.css, /css/massages.css]
+css:  [/css/list.css, /css/links.css, /css/article.css]
 lead: "Massage traditionnel tha&iuml;"
 title: "Massage traditionnel tha&iuml;"
 small_image: /img/articles/massages/thai/small.jpg
 big_image: /img/articles/massages/thai/big.jpg
-layout: massages
+layout: article
+section: massages
+section_title: Massages
 permalink: massages/thai.html
 time: 1h30
 price: 75

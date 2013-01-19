@@ -1,13 +1,3 @@
-h2 a {
-    background: url("../img/nav/massage.png") 0 12px no-repeat;
-    padding: 7px 0 12px 45px;
-    color: #E347BD;
-    font-size: 28px;
-    font-style: italic;
-    font-weight: normal;
-    display: block;
-}
-
 h1 {
     display: inline-block;
 }

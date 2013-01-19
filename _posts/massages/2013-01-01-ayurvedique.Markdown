@@ -1,10 +1,12 @@
 ---
-css:  [/css/list.css, /css/links.css, /css/massages.css]
+css:  [/css/list.css, /css/links.css, /css/article.css]
 lead: "Massage ayurv&eacute;dique abhyanga"
 title: "Massage ayurv&eacute;dique abhyanga"
 small_image: /img/articles/massages/ayurvedique/small.jpg
 big_image: /img/articles/massages/ayurvedique/big.jpg
-layout: massages
+layout: article
+section: massages
+section_title: Massages
 permalink: massages/ayurvedique.html
 time: 1h30
 price: 70

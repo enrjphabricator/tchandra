@@ -1,10 +1,12 @@
 ---
-css:  [/css/list.css, /css/links.css, /css/massages.css]
+css:  [/css/list.css, /css/links.css, /css/article.css]
 lead: "Massage relaxant aux huiles essentielles bio"
 title: "Massage relaxant aux huiles essentielles bio"
 small_image: /img/articles/massages/relaxant/small.jpg
 big_image: /img/articles/massages/relaxant/big.jpg
-layout: massages
+layout: article
+section: massages
+section_title: Massages
 permalink: massages/relaxant.html
 time: 1h
 price: 50
