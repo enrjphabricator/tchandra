@@ -1,0 +1,30 @@
+h1 {
+    display: inline-block;
+}
+
+article.main iframe {
+   float: left;
+   border: 1px solid #E5E5E5;
+   box-shadow: 1px 1px 3px #F5F5F5;
+   padding: 9px;
+   margin: 0 20px 10px 0;
+}
+    
+article.main div {
+    display:block;
+    float:left;
+    max-width: 568px
+}
+
+article.main {
+    margin-bottom: 20px;
+}
+
+.colored {
+       color: #E347BD;
+}
+
+address {
+    margin: 10px 0 0 0;
+    line-height: 2;
+}
