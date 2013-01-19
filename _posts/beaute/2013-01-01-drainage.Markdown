@@ -1,0 +1,24 @@
+---
+css:  [/css/list.css, /css/links.css, /css/article.css]
+lead: "Soin drainage jambes l&eacute;g&egrave;res"
+title: "Soin drainage jambes l&eacute;g&egrave;res"
+small_image: /img/articles/beaute/drainage/small.jpg
+big_image: /img/articles/beaute/drainage/big.jpg
+layout: article
+section: beaute
+section_title: Beaut&eacute;
+permalink: beaute/drainage.html
+time: 1h
+price: 50
+slug: drainage
+links: [tarif, visage, epilation]
+description: "Pour retrouver des jambes l&eacute;g&egrave;res."
+---
+Ce soin soulage les jambes lourdes et procure 
+une sensation durable de fraicheur et légèreté.
+Il est particulièremet recommandé aux 
+personnes souffrant de jambes lourdes et/ou
+d’une mauvaise circulation sanguine dans les 
+jambes.
+Il est idéal de le recevoir en période de chaleur, 
+pendant l’été. 
