@@ -3,7 +3,7 @@ css:  [/css/list.css, /css/links.css, /css/article.css]
 lead: "Massage californien"
 title: "Massage californien"
 small_image: /img/articles/massages/californien/small.jpg
-big_image: /img/articles/massages/relaxant/big.jpg
+big_image: /img/articles/massages/californien/big.jpg
 layout: article
 section: massages
 section_title: Massages
@@ -11,19 +11,25 @@ permalink: massages/californien.html
 time: 1h15
 price: 60
 slug: californien
-links: [tarifs, balinais]
-good: ["Relaxe",  "d&eacute;stresse", "d&eacute;tend"]
-bad: ["Etats inflammatoires", "Phl&eacute;bite", "Fi&egrave;vre", "Hypertension non trait&eacute;e"]
+links: [tarifs, balinais, relaxant]
+good: ["Elimination des toxines", "Relancer la circulation lymphatique", "Oxyg&eacute;nation des tissus", "D&eacute;contraction musculaire", "L&acirc;cher prise"]
+bad: ["Etats inflammatoires", "Hypertension non trait&eacute;e"]
 description: "Un massage de relaxation pour d&eacute;nouer les tensions en profondeur!"
 ---
-Ce soin permet de se détendre, de se relaxer en 
-douceur pour évacuer tout le stress accumulé. 
-En englobant le corps, il permet également une 
-intégration complète du schéma corporel à la 
-conscience. 
-Il est composé d’effleurages lents et harmonieux , 
-de lissages fluides et longs , de bercements et de 
-pétrissages doux.
+Ce massage est né à la fin des années 60 sur la 
+côte ouest des Etats-Unis. 
+
+
+Il a été élaboré dans l’esprit de prendre en 
+charge le corps dans sa globalité.
+Ce massage de relaxation permet de se détendre 
+en profondeur et se décontracter 
+musculairement.
+
+
+Il a également une action sur les système 
+nerveux, digestifs et d’élimination et améliore 
+la circulation sanguine et lymphatique. 
 
 
 

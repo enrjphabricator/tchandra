@@ -11,24 +11,38 @@ permalink: massages/balinais.html
 time: 1h30
 price: 70
 slug: balinais
-links: [tarifs]
+links: [tarifs, ayurvedique, californien]
 good: ["Soulage les douleurs musculaires", "Diminue l&rsquo;anxi&eacute;t&eacute;", "R&eacute;duit spasmes et crampes", "Soulage les migraines"]
 bad: ["Femmes enceintes", "Apr&egrave;s une op&eacute;ration", "Hypertension non trait&eacute;e", "Fi&egrave;vre", "Plaies non cicatris&eacute;es"]
 description: "Un massage d&eacute;couverte  aux senteurs d&rsquo;Asie (ylang-ylang, frangipanier, jasmin) qui  vous fera voyager &agrave; Bali, l&rsquo;&icirc;le  des dieux. D&eacute;paysement garanti!"
 ---
 Ce massage millénaire est né d’influences indienne et
 chinoise lors du commerce aux épices en Indonésie.
+
+
 Il était alors réservé à la famille royale à Java.
+
+
 Puis ce massage a évolué vers Bali ou il s’est inspiré
 par la suite des techniques du massage suédois.
+
+
 C'est un soin complet car il fait alterner des
 effleurages, des pressions, des lissages, des étirements ,
 des vibrations et des frictions.
+
+
 A la fois dynamique et relaxant ,il débute tout en
 raffinement par un bain de pied.
+
+
 Il utilise des techniques chinoises (pressions avec les paumes de la main et les pouces)
 et s’inspire du massage ayurvédique avec l’huile.
+
+
 A Bali, il est considéré comme un vrai soin de beauté.
+
+
 C’est un massage aux huiles essentielles de frangipanier, jasmin, cempaka qui vous garantit
 une parenthèse  enchantée en vous faisant voyager à Bali, « l’île des dieux ».
 

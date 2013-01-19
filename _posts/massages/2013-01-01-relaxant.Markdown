@@ -12,7 +12,7 @@ time: 1h
 price: 50
 slug: relaxant
 links: [tarifs, pierres, californien]
-good: ["Relaxe",  "d&eacute;stresse", "d&eacute;tend"]
+good: ["D&eacute;tend en profondeur", "Permet une int&eacute;gration du sch&eacute;ma corporel &agrave; la conscience", "L&acirc;cher prise"]
 bad: ["Etats inflammatoires", "Phl&eacute;bite", "Fi&egrave;vre", "Hypertension non trait&eacute;e"]
 description: "Un massage tout en douceur aux huiles essentielles de lavande, camomille pour  l&acirc;cher prise et d&eacute;connecter."
 ---
@@ -21,8 +21,10 @@ douceur pour évacuer tout le stress accumulé.
 En englobant le corps, il permet également une 
 intégration complète du schéma corporel à la 
 conscience. 
+
+
 Il est composé d’effleurages lents et harmonieux, 
-de lissages fluides et longs , de bercements et de 
+de lissages fluides et longs, de bercements et de 
 pétrissages doux.
 
 

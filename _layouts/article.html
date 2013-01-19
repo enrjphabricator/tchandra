@@ -3,7 +3,7 @@
     <article class="main clearfix">
         <header>
             {% include h2.html %}
-            <h1>{{page.title}}</h1><p>&nbsp;-&nbsp;{{page.time}} / {{page.price}} &euro;</p>
+            <h1>{{page.title}}</h1>{% if page.price %}<p>&nbsp;-&nbsp;{{page.time}} / {{page.price}} &euro;</p>{% endif %}
         </header>
         <img src="{{ site.baseurl }}/{{ page.big_image }}" >
         <div>
