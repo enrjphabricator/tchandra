@@ -9,7 +9,7 @@ section: cabinet
 section_title: Le cabinet
 permalink: cabinet.html
 slug: cabinet
-links: [massages, beaute, thai]
+links: [massages, contact, beaute, tchandra]
 description: "Venez prendre soin de vous au coeur de Paris, dans le Marais."
 ---
 Je vous reçois dans mon appartement 

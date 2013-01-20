@@ -1,0 +1,13 @@
+---
+css:  [/css/list.css, /css/links.css, /css/article.css]
+lead: "Contact"
+title: ""
+small_image: /img/articles/contact/small.jpg
+layout: article
+section: contact
+section_title: Contact
+permalink: contact.html
+slug: contact
+description: "Toutes les informations pour vous r&eacute;server un moment de d&eacute;tente inoubliable."
+---
+

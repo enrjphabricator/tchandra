@@ -11,7 +11,7 @@ permalink: massages/thai.html
 time: 1h30
 price: 75
 slug: thai
-links: [tarifs, reflexologie, chinois]
+links: [tarif, charte, reflexologie, chinois]
 good: ["Elimination des toxines", "Augmentation de la d&eacute;fense immunitaire", "Meilleure souplesse corporelle", "Stimulation des circulations sanguine et lymphatique", "Plus grand confort de vie"]
 bad: ["Fractures, Entorses", "Fi&egrave;vre", "Cardiopathie s&eacute;v&egrave;re", "Phl&eacute;bite", "Varice", "Inflammation musculaire"]
 description: "&quot;Le yoga des paresseux&quot; Ce massage vous permettra  de retrouver une certaine souplesse et de d&eacute;nouer les tensions accumul&eacute;es."

@@ -11,7 +11,7 @@ permalink: massages/californien.html
 time: 1h15
 price: 60
 slug: californien
-links: [tarifs, balinais, relaxant]
+links: [balinais, relaxant, beaute, tarif]
 good: ["Elimination des toxines", "Relancer la circulation lymphatique", "Oxyg&eacute;nation des tissus", "D&eacute;contraction musculaire", "L&acirc;cher prise"]
 bad: ["Etats inflammatoires", "Hypertension non trait&eacute;e"]
 description: "Un massage de relaxation pour d&eacute;nouer les tensions en profondeur!"

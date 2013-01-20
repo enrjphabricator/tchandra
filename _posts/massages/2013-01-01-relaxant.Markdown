@@ -11,7 +11,7 @@ permalink: massages/relaxant.html
 time: 1h
 price: 50
 slug: relaxant
-links: [tarifs, pierres, californien]
+links: [pierres, californien,visage, tarif]
 good: ["D&eacute;tend en profondeur", "Permet une int&eacute;gration du sch&eacute;ma corporel &agrave; la conscience", "L&acirc;cher prise"]
 bad: ["Etats inflammatoires", "Phl&eacute;bite", "Fi&egrave;vre", "Hypertension non trait&eacute;e"]
 description: "Un massage tout en douceur aux huiles essentielles de lavande, camomille pour  l&acirc;cher prise et d&eacute;connecter."

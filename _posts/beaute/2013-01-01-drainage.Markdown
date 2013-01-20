@@ -11,7 +11,7 @@ permalink: beaute/drainage.html
 time: 1h
 price: 50
 slug: drainage
-links: [tarif, visage, epilation]
+links: [tarif, visage, epilation, ayurvedique]
 description: "Pour retrouver des jambes l&eacute;g&egrave;res."
 ---
 Ce soin soulage les jambes lourdes et procure 

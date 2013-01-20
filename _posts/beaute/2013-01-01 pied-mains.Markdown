@@ -11,7 +11,7 @@ permalink: beaute/mains.html
 time: 30 min
 price: 30
 slug: mains
-links: [tarif, visage, epilation]
+links: [tarif, visage, epilation, charte]
 description: "Prendre soin de soi, c'est aussi prendre soin de sa peau."
 ---
 Kajame propose des produits fabriqués sous contrôle 

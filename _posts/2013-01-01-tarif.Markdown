@@ -6,7 +6,5 @@ layout: default
 slug: tarif
 title: Tchandra massage - Tarif
 description: "Un massage, un soin de beaut&eacute;, c'est un beau cadeau &agrave; se faire ou &agrave; offrir, qui fait toujours plaisir! 
-
-
 Pour toutes les occasions: anniversaire, mariage, st-valentin, f&ecirc;tes de m&egrave;res/p&egrave;res"
 ---

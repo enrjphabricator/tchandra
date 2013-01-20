@@ -35,6 +35,11 @@ article.main {
 article.main p {
 margin-bottom: 10px;
 }
+
+article.main h4 {
+font-weight: bold;
+}
+
 article.main h3, section h1 {
     color: #E347BD;
     font-size: 20px;

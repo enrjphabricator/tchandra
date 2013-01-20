@@ -1,7 +1,7 @@
 ---
-lead: Cartes cadeaux disponibles sur demande!
+lead: Cartes cadeaux disponibles sur demande! 
 small_image: /img/articles/cadeaux/small.jpg
 permalink: tarif.html
 slug: cadeaux
-description: "Un massage, un soin de beaut&eacute;, c'est un beau cadeau &agrave; se faire ou &agrave; offrir, qui fait toujours plaisir! Pour toutes les occasions: anniversaire, mariage, enterrement de vie de jeune fille ou gar&ccedil;on, apr&egrave;s un  accouchement, f&ecirc;tes des m&egrave;res/ p&egrave;res..."
+description: "Un massage, un soin de beaut&eacute;, c'est un beau cadeau &agrave; se faire ou &agrave; offrir, qui fait toujours plaisir! Pour toutes les occasions: anniversaire, mariage, st-valentin, f&ecirc;tes des m&egrave;res/p&egrave;res"
 ---

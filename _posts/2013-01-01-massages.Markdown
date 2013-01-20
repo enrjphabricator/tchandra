@@ -1,9 +1,9 @@
 ---
 lead: "Les massages"
 title: ""
-small_image: /img/articles/tchandra/small.jpg
+small_image: /img/articles/massages/massages/small.jpg
 permalink: massages.html
 slug: massages
-description: "Un massage id&eacute;al pour d&eacute;toxifier et nettoyer son corps en profondeur. Ce massage indien vous ressourcera en profondeur!"
+description: "Venez faire un tour du monde en massage."
 ---
 

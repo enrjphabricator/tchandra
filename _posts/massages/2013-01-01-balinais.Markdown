@@ -11,7 +11,7 @@ permalink: massages/balinais.html
 time: 1h30
 price: 70
 slug: balinais
-links: [tarifs, ayurvedique, californien]
+links: [ ayurvedique, californien, tarif, beaute]
 good: ["Soulage les douleurs musculaires", "Diminue l&rsquo;anxi&eacute;t&eacute;", "R&eacute;duit spasmes et crampes", "Soulage les migraines"]
 bad: ["Femmes enceintes", "Apr&egrave;s une op&eacute;ration", "Hypertension non trait&eacute;e", "Fi&egrave;vre", "Plaies non cicatris&eacute;es"]
 description: "Un massage d&eacute;couverte  aux senteurs d&rsquo;Asie (ylang-ylang, frangipanier, jasmin) qui  vous fera voyager &agrave; Bali, l&rsquo;&icirc;le  des dieux. D&eacute;paysement garanti!"

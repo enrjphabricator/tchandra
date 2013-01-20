@@ -11,7 +11,7 @@ permalink: massages/ayurvedique.html
 time: 1h30
 price: 70
 slug: ayurvedique
-links: [tarifs, balinais, thai]
+links: [ balinais, thai, tarif, charte]
 advice: ["Garder l&rsquo;huile au moins 15 min sur le corps", "Prendre une douche bien chaude quelques heures apr&egrave;s le massage pour une meilleure p&eacute;n&eacute;tration de l&rsquo;huile  sur la peau et l&rsquo;&eacute;limination les toxines."]
 good: ["Mobilise les toxines et aide &agrave; les &eacute;liminer", "Active la circulation sanguine et lymphatique", "Apaise le syst&egrave;me nerveux", "Relaxe les muscles et tendons", "Fortifie le corps", "Favorise le sommeil et les r&ecirc;ves"]
 bad: ["Etats inflammatoires", "Fi&egrave;vre", "Phl&eacute;bite", "Hypertension non trait&eacute;e"]

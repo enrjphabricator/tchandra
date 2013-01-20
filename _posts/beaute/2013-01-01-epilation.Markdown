@@ -9,7 +9,7 @@ section: beaute
 section_title: Beaut&eacute;
 permalink: beaute/epilation.html
 slug: epilation
-links: [tarif, visage]
+links: [tarif, visage, massages, mains]
 description: "Pour &ecirc;tre belle au quotidien"
 ---
 Demi-jambes

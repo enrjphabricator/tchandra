@@ -9,8 +9,8 @@ section: tchandra
 section_title: Tchandra
 permalink: tchandra.html
 slug: tchandra
-links: [massages, cabinet, balinais, thai]
-description: "Un massage id&eacute;al pour d&eacute;toxifier et nettoyer son corps en profondeur. Ce massage indien vous ressourcera en profondeur!"
+links: [massages, contact, cabinet, cadeaux]
+description: "Tchandra est n&eacute; pour vous proposer une qualit&eacute; de vie en vous octroyant des moments de bien-&ecirc;tre pour vous ressourcer et combattre le stress, la fatigue et la d&eacute;prime."
 ---
 
 ###Tchandra ###
@@ -37,9 +37,9 @@ bien-être que l’on peut ressentir quand on prend
 du temps pour soi.
 
 
-Le massage est une philosophie de vie. Reçu régulièrement,
-il permet de combattre le stress et l’anxiété, lâcher prise 
-mentalement et être à l’écoute de soi-même.
+Le massage est une philosophie de vie. Ecouter son corps, ses émotions,
+permet de combattre le stress, l'anxiété et favorise le lâcher prise pour aller vers
+plus de sérénité et d'harmonie.
 
 
 Mon but est de permettre à tous et à toutes de découvrir 

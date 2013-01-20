@@ -11,7 +11,7 @@ permalink: massages/dos.html
 time: 30min
 price: 30
 slug: dos
-links: [tarifs, pierres, relaxant]
+links: [pierres, relaxant, beaute, tarif]
 advice: ["Ce soin peut &ecirc;tre &eacute;galement recommand&eacute; aux personnes qui se font masser pour la premi&egrave;re fois."]
 description: "Massage id&eacute;al pour tous ceux qui en ont plein le dos!"
 ---
