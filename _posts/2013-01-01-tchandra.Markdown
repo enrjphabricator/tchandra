@@ -9,7 +9,7 @@ section: tchandra
 section_title: Tchandra
 permalink: tchandra.html
 slug: tchandra
-links: [cabinet, balinais, thai]
+links: [massages, cabinet, balinais, thai]
 description: "Un massage id&eacute;al pour d&eacute;toxifier et nettoyer son corps en profondeur. Ce massage indien vous ressourcera en profondeur!"
 ---
 

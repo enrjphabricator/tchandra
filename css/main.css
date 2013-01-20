@@ -119,7 +119,7 @@ li#nav-massage a {
 }
 
 li#nav-office a {
-    background-image: url("../img/nav/office.png");
+    background-image: url("../img/nav/cabinet.png");
 }
 
 li#nav-contact a {
@@ -138,6 +138,12 @@ li#nav-facebook a {
     background-image: url("../img/nav/facebook.png");
 }
 
+.header {
+    border-bottom: 1px dashed #E5E5E5;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    display: block;
+}
 
 h1 {
     font-size: 26px;

@@ -6,6 +6,7 @@ window.onload=function(){
             auto : 4000,
             callback: function(event, index, element){
                 ul.children[(index - 1 + length) % length].className = '';
+                ul.children[(index + 1 + length) % length].className = '';
                 if (mySwipe.getPos() == index)
                 {
                     ul.children[index].className = 'hover';
