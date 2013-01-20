@@ -1,0 +1,45 @@
+---
+css:  [/css/list.css, /css/links.css, /css/article.css]
+lead: "Le cabinet"
+title: ""
+small_image: /img/articles/cabinet/small.jpg
+big_image: /img/articles/cabinet/big3.jpg
+layout: article
+section: cabinet
+section_title: Le cabinet
+permalink: cabinet.html
+slug: cabinet
+links: [massages, beaute, thai]
+description: "Venez prendre soin de vous au coeur de Paris, dans le Marais."
+---
+Je vous reçois dans mon appartement 
+parisien du 3e arrondissement au coeur
+du Marais.
+Sur fond de musique relaxante, vous 
+pouvez commencer à lâcher prise.
+Les huiles de massage préparées à base
+d’huiles essentielles bio vous permettent
+de partir loin en voyage et vous 
+garantissent une parenthèse enchantée 
+de bien-être.
+Optez pour la qualité et l’authenticité chez 
+Tchandra.
+
+###La charte Tchandra###
+
+####Donner des soins de qualité.####
+Formée en Asie et en France, dans des organismes
+reconnus, mes massages et soins sont pratiqués avec 
+connaissance, authenticité et rigueur.
+Ils n’ont pas pour prétention de se substituer au travail 
+des kinésithérapeutes. Ils ne peuvent en aucun cas régler 
+des problèmes médicaux.
+
+####Recevoir dans un cadre propre, sain et sans ambiguité.####
+Le linge est changé et nettoyé après chaque client.
+Les massages proposés ne sont pas à caractère sexuel 
+ni érotique.
+
+####Utiliser des huiles essentielles et végétales Bio### 
+reconnues pour leurs vertues relaxantes, régénérantes,
+tonifiantes.

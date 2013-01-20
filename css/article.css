@@ -29,9 +29,12 @@ article.main div {
     max-width: 568px
 }
 article.main {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
+article.main p {
+margin-bottom: 10px;
+}
 article.main h3, section h1 {
     color: #E347BD;
     font-size: 20px;
