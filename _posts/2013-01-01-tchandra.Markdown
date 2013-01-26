@@ -1,7 +1,8 @@
 ---
 css:  [/css/list.css, /css/links.css, /css/article.css]
 lead: "Tchandra"
-title: ""
+title: "Tchandra massage - Tchandra"
+hide_title: "true"
 small_image: /img/articles/tchandra/small.jpg
 big_image: /img/articles/tchandra/big.jpg
 layout: article
@@ -14,26 +15,26 @@ description: "Tchandra est n&eacute; pour vous proposer une qualit&eacute; de vi
 ---
 
 ###Tchandra ###
-est une divinité lunaire hindoue qui veut dire littéralement "lumineux".  
-Elle est dépeinte sous les traits d’un jeune homme tenant 
-dans ses deux bras un lotus.  
-Il a une influence particulière sur la santé des gens.  
-Il préside aux eaux vitales,aux pluies, à la fertilité, aux herbes 
-médicinales et donne aux mortels l'opulence et la santé. 
+est une divinité lunaire hindoue qui veut dire littéralement "lumineux".
+Elle est dépeinte sous les traits d’un jeune homme tenant
+dans ses deux bras un lotus.
+Il a une influence particulière sur la santé des gens.
+Il préside aux eaux vitales,aux pluies, à la fertilité, aux herbes
+médicinales et donne aux mortels l'opulence et la santé.
 
 ###Laure Espinat###
 Praticienne en massage de bien-être et esthéticienne
 
-“J’ai découvert les massages lors de mes nombreux 
-périples en Asie. Là bas, le massage est pratiqué 
-et reçu au quotidien parce qu’il participe à 
-l’équilibre et au bien-être des gens. 
+“J’ai découvert les massages lors de mes nombreux
+périples en Asie. Là bas, le massage est pratiqué
+et reçu au quotidien parce qu’il participe à
+l’équilibre et au bien-être des gens.
 
 
-M’étant formée à l’institut Cassiopée, à l’école 
-d’esthétique Marbeuf à Paris, à Bali, en Thaïlande 
-au Wat Po, je souhaite vous transmettre ce 
-bien-être que l’on peut ressentir quand on prend 
+M’étant formée à l’institut Cassiopée, à l’école
+d’esthétique Marbeuf à Paris, à Bali, en Thaïlande
+au Wat Po, je souhaite vous transmettre ce
+bien-être que l’on peut ressentir quand on prend
 du temps pour soi.
 
 
@@ -42,9 +43,9 @@ permet de combattre le stress, l'anxiété et favorise le lâcher prise pour all
 plus de sérénité et d'harmonie.
 
 
-Mon but est de permettre à tous et à toutes de découvrir 
-les massages et leurs bienfaits, de permettre aux gens de 
-prendre soin d’eux, de retrouver une harmonie, de 
-redécouvrir leur corps et d’améliorer leur qualité de vie, 
+Mon but est de permettre à tous et à toutes de découvrir
+les massages et leurs bienfaits, de permettre aux gens de
+prendre soin d’eux, de retrouver une harmonie, de
+redécouvrir leur corps et d’améliorer leur qualité de vie,
 en s’accordant des moments précieux pour se ressourcer.”
 
