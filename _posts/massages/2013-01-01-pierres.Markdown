@@ -14,7 +14,7 @@ slug: pierres
 links: [tarif, balinais, relaxant, charte]
 good: ["Elimination des toxines", "Relancer la circulation lymphatique", "Oxyg&eacute;nation des tissus", "D&eacute;contraction musculaire", "L&acirc;cher prise", "Am&eacute;liorer la qualit&eacute; du sommeil"]
 bad: ["Fi&egrave;vre", "Probl&egrave;mes cardio-vasculaires importants", "Maladies cardiaques", "Affections cutan&eacute;es (ecz&eacute;ma, psoriasis)", "Femmes enceintes"]
-description: "Venez vous r&eacute;chauffer, non pas au coin du feu mais avec un bon massage aux pierres chaudes! La chaleur diffus&eacute;e par les pierres volcanique vous d&eacute;tendra en profondeur!"
+description: "Venez vous r&eacute;chauffer, non pas au coin du feu mais avec un bon massage aux pierres chaudes! La chaleur diffus&eacute;e par les pierres volcaniques vous d&eacute;tendra en profondeur!"
 ---
 Ce massage défatiguant est réalisé avec des 
 pierres volcaniques chauffées dans une eau 
