@@ -9,7 +9,7 @@ article.main iframe {
    padding: 9px;
    margin: 0 20px 10px 0;
 }
-    
+
 article.main div {
     display:block;
     float:left;
@@ -18,10 +18,6 @@ article.main div {
 
 article.main {
     margin-bottom: 20px;
-}
-
-.colored {
-       color: #E347BD;
 }
 
 address {
