@@ -5,6 +5,7 @@ title: ""
 small_image: /img/articles/charte/small.jpg
 section: charte
 permalink: cabinet.html
+layout: article
 slug: charte
 description: "Optez pour la qualit&eacute; et l&rsquo;authenticit&eacute; chez Tchandra."
 ---

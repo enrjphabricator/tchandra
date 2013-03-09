@@ -15,7 +15,11 @@
             {% if post.time && post.price %}
         <p id="price">{{post.time}} / {{post.price}} &euro;</p>
             {% endif %}
-        <div class="facebook-like" ></div>
+            {% if post.layout == 'article' %}
+        &nbsp;
+        <iframe src="//www.facebook.com/plugins/like.php?href={{ site.url | replace:':','%3A' | replace:'/','%2F' }}{{ post.url | replace:'/','%2F' }}&amp;send=false&amp;layout=button_count&amp;width=82&amp;show_faces=true&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21" scrolling="no" frameborder="0" style="bottom: 20px;position: absolute;border:none; overflow:hidden; width:82px; height:21px;right: 10px;" allowTransparency="true">
+        </iframe>
+            {% endif %}
      </article>
         {% endif %}
     {% endfor %}
