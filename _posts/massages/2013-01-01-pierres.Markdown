@@ -1,9 +1,9 @@
 ---
-css:  [/css/list.css, /css/links.css, /css/article.css]
+css:  [css/list.css, css/links.css, css/article.css]
 lead: "Massage aux pierres chaudes"
 title: "Massage aux pierres chaudes"
-small_image: /img/articles/massages/pierres/small.jpg
-big_image: /img/articles/massages/pierres/big.jpg
+small_image: img/articles/massages/pierres/small.jpg
+big_image: img/articles/massages/pierres/big.jpg
 layout: article
 section: massages
 section_title: Massages
@@ -12,19 +12,19 @@ time: 1h
 price: 60
 slug: pierres
 links: [tarif, balinais, relaxant, charte]
-good: ["Elimination des toxines", "Relancer la circulation lymphatique", "Oxyg&eacute;nation des tissus", "D&eacute;contraction musculaire", "L&acirc;cher prise", "Am&eacute;liorer la qualit&eacute; du sommeil"]
-bad: ["Fi&egrave;vre", "Probl&egrave;mes cardio-vasculaires importants", "Maladies cardiaques", "Affections cutan&eacute;es (ecz&eacute;ma, psoriasis)", "Femmes enceintes"]
-description: "Venez vous r&eacute;chauffer, non pas au coin du feu mais avec un bon massage aux pierres chaudes! La chaleur diffus&eacute;e par les pierres volcaniques vous d&eacute;tendra en profondeur!"
+good: ["Elimination des toxines", "Relancer la circulation lymphatique", "Oxygénation des tissus", "Décontraction musculaire", "Lâcher prise", "Améliorer la qualité du sommeil"]
+bad: ["Fièvre", "Problèmes cardio-vasculaires importants", "Maladies cardiaques", "Affections cutanées (eczéma, psoriasis)", "Femmes enceintes"]
+description: "Venez vous réchauffer, non pas au coin du feu mais avec un bon massage aux pierres chaudes! La chaleur diffusée par les pierres volcaniques vous détendra en profondeur!"
 ---
-Ce massage défatiguant est réalisé avec des 
-pierres volcaniques chauffées dans une eau 
+Ce massage défatiguant est réalisé avec des
+pierres volcaniques chauffées dans une eau
 à 40/50°.
-La chaleur favorise une détente musculaire, 
-relaxe le corps et l’esprit et harmonise les 
+La chaleur favorise une détente musculaire,
+relaxe le corps et l’esprit et harmonise les
 énergies.
 
-Ce massage est particulèrement recommandé 
-pour les personnes fatiguées et stressées qui ont 
+Ce massage est particulèrement recommandé
+pour les personnes fatiguées et stressées qui ont
 besoin de se ressourcer.
 
 

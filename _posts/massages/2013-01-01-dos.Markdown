@@ -1,9 +1,9 @@
 ---
-css:  [/css/list.css, /css/links.css, /css/article.css]
+css:  [css/list.css, css/links.css, css/article.css]
 lead: "Massage du dos"
 title: "Massage du dos"
-small_image: /img/articles/massages/dos/small.jpg
-big_image: /img/articles/massages/dos/big.jpg
+small_image: img/articles/massages/dos/small.jpg
+big_image: img/articles/massages/dos/big.jpg
 layout: article
 section: massages
 section_title: Massages
@@ -12,8 +12,8 @@ time: 30min
 price: 30
 slug: dos
 links: [pierres, relaxant, beaute, tarif]
-advice: ["Ce soin peut &ecirc;tre &eacute;galement recommand&eacute; aux personnes qui se font masser pour la premi&egrave;re fois."]
-description: "Massage id&eacute;al pour tous ceux qui en ont plein le dos!"
+advice: ["Ce soin peut être également recommandé aux personnes qui se font masser pour la première fois."]
+description: "Massage idéal pour tous ceux qui en ont plein le dos!"
 ---
 Détente rapide avec ce massage d’une demi heure
 essentiellement  basé sur le dos, les trapèzes, la nuque

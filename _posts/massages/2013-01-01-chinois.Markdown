@@ -1,9 +1,9 @@
 ---
-css:  [/css/list.css, /css/links.css, /css/article.css]
+css:  [css/list.css, css/links.css, css/article.css]
 lead: "Massage chinois"
-title: "Massage &eacute;nerg&eacute;tique chinois &quot;chrong mai&quot;"
-small_image: /img/articles/massages/chinois/small.jpg
-big_image: /img/articles/massages/chinois/big.jpg
+title: "Massage énergétique chinois \"chrong mai\""
+small_image: img/articles/massages/chinois/small.jpg
+big_image: img/articles/massages/chinois/big.jpg
 layout: article
 section: massages
 section_title: Massages
@@ -12,33 +12,33 @@ time: 1h
 price: 50
 slug: chinois
 links: [tarif, thai, reflexologie, visage]
-bad: ["Femmes enceintes", "Etats inflammatoires", "Phl&eacute;bite", "Fi&egrave;vre", "Hypertension non trait&eacute;e"]
-advice: ["Pour &ecirc;tre plus efficace, ce massage est conseill&eacute; d'&ecirc;tre re&ccedil;u en cure &agrave; raison d'une fois par semaine pendant un mois."]
-description: "Pour faire le plein d&rsquo;&eacute;nergie &agrave; tout moment, dans l&rsquo;ann&eacute;e. Ce massage vous garantit de retrouver la p&ecirc;che!"
+bad: ["Femmes enceintes", "Etats inflammatoires", "Phlébite", "Fièvre", "Hypertension non traitée"]
+advice: ["Pour être plus efficace, ce massage est conseillé d'être reçu en cure à raison d'une fois par semaine pendant un mois."]
+description: "Pour faire le plein d’énergie à tout moment, dans l’année. Ce massage vous garantit de retrouver la pêche!"
 ---
-Massage au protocole très précis issu de la médecine 
+Massage au protocole très précis issu de la médecine
 traditionnelle chinoise.
 
 
- Selon cette médecine douce, certains points 
-d'acupuncture se bloquent et empêchent une bonne 
-circulation de l'énergie dans le corps. 
+ Selon cette médecine douce, certains points
+d'acupuncture se bloquent et empêchent une bonne
+circulation de l'énergie dans le corps.
 
 
-Ce soin énergétique vise à agir sur ces points situés 
-sur les méridiens de la rate-pancréas, de l’estomac, 
+Ce soin énergétique vise à agir sur ces points situés
+sur les méridiens de la rate-pancréas, de l’estomac,
 de la vessie, du rein...
 
 
-Frictions, lissages et stimulation des points 
-énergétiques à travers l’acupression et le cristal de 
-roche permettent de relancer les énergies, de retrouver 
+Frictions, lissages et stimulation des points
+énergétiques à travers l’acupression et le cristal de
+roche permettent de relancer les énergies, de retrouver
 la forme après un manque de tonus .
 
 
-Ce massage est recommandé en cas de dépression, 
-convalescence, extrême fatigue, perte de la libido, 
-changement de saison, après un accouchement ou un 
+Ce massage est recommandé en cas de dépression,
+convalescence, extrême fatigue, perte de la libido,
+changement de saison, après un accouchement ou un
 choc émotionnel.
 
 

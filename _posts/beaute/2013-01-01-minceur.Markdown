@@ -1,20 +1,20 @@
 ---
-css:  [/css/list.css, /css/links.css, /css/article.css]
+css:  [css/list.css, css/links.css, css/article.css]
 lead: "Soin minceur"
 title: "Soin minceur"
-small_image: /img/articles/beaute/minceur/small.jpg
-big_image: /img/articles/beaute/minceur/big.jpg
+small_image: img/articles/beaute/minceur/small.jpg
+big_image: img/articles/beaute/minceur/big.jpg
 layout: article
 section: beaute
-section_title: Beaut&eacute;
+section_title: Beauté
 permalink: beaute/minceur.html
 time: 1h
 price: 50
 slug: minceur
 links: [tarif, visage, drainage, epilation]
-description: "Pour toutes celles et ceux qui veulent se sentir plus &agrave; l'aise dans leurs corps."
+description: "Pour toutes celles et ceux qui veulent se sentir plus à l'aise dans leurs corps."
 ---
-Technique spécifique accompagnée d’un gommage  
-pour sculpter ou raffermir la silhouette, remodelant 
+Technique spécifique accompagnée d’un gommage
+pour sculpter ou raffermir la silhouette, remodelant
 votre corps.
 Se révèle très efficace en cure de 10 séances.

@@ -1,10 +1,10 @@
 ---
-css:  [/css/list.css, /css/links.css, /css/article.css]
+css:  [css/list.css, css/links.css, css/article.css]
 lead: "Le cabinet"
 title: "Tchandra massage - Cabinet"
 hide_title: "true"
-small_image: /img/articles/cabinet/small.jpg
-big_image: /img/articles/cabinet/big3.jpg
+small_image: img/articles/cabinet/small.jpg
+big_image: img/articles/cabinet/big3.jpg
 layout: article
 section: cabinet
 section_title: Le cabinet

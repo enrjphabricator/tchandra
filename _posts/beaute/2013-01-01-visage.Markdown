@@ -1,12 +1,12 @@
 ---
-css:  [/css/list.css, /css/links.css, /css/article.css]
+css:  [css/list.css, css/links.css, css/article.css]
 lead: "Soin visage"
 title: "Soin visage"
-small_image: /img/articles/beaute/visage/small.jpg
-big_image: /img/articles/beaute/visage/big.jpg
+small_image: img/articles/beaute/visage/small.jpg
+big_image: img/articles/beaute/visage/big.jpg
 layout: article
 section: beaute
-section_title: Beaut&eacute;
+section_title: Beauté
 permalink: beaute/visage.html
 time: 1h
 price: 55

@@ -1,14 +1,11 @@
 safe:        false
-auto:        true
-server:      false
-server_port: 4000
 #baseurl:    /tchandra
-url: http://tchandra-massage.fr/
+url: http://tchandra-massage.fr
 
 source:      .
 destination: ./_site
 plugins:     ./_plugins
-
+encoding:    "utf-8"
 future:      true
 lsi:         false
 pygments:    false

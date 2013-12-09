@@ -1,17 +1,17 @@
 ---
-css:  [/css/list.css, /css/links.css, /css/article.css]
+css:  [css/list.css, css/links.css, css/article.css]
 lead: "Tchandra"
 title: "Tchandra massage - Tchandra"
 hide_title: "true"
-small_image: /img/articles/tchandra/small.jpg
-big_image: /img/articles/tchandra/big.jpg
+small_image: img/articles/tchandra/small.jpg
+big_image: img/articles/tchandra/big.jpg
 layout: article
 section: tchandra
 section_title: Tchandra
 permalink: tchandra.html
 slug: tchandra
 links: [massages, contact, cabinet, cadeaux]
-description: "Tchandra est n&eacute; pour vous proposer une qualit&eacute; de vie en vous octroyant des moments de bien-&ecirc;tre pour vous ressourcer et combattre le stress, la fatigue et la d&eacute;prime."
+description: "Tchandra est né pour vous proposer une qualité de vie en vous octroyant des moments de bien-être pour vous ressourcer et combattre le stress, la fatigue et la déprime."
 ---
 
 ###Tchandra ###

@@ -1,9 +1,9 @@
 ---
-css:  [/css/list.css, /css/links.css, /css/article.css]
+css:  [css/list.css, css/links.css, css/article.css]
 lead: "Massage relaxant aux huiles essentielles bio"
 title: "Massage relaxant aux huiles essentielles bio"
-small_image: /img/articles/massages/relaxant/small.jpg
-big_image: /img/articles/massages/relaxant/big.jpg
+small_image: img/articles/massages/relaxant/small.jpg
+big_image: img/articles/massages/relaxant/big.jpg
 layout: article
 section: massages
 section_title: Massages
@@ -12,19 +12,19 @@ time: 1h
 price: 50
 slug: relaxant
 links: [pierres, californien,visage, tarif]
-good: ["D&eacute;tend en profondeur", "Permet une int&eacute;gration du sch&eacute;ma corporel &agrave; la conscience", "L&acirc;cher prise"]
-bad: ["Etats inflammatoires", "Phl&eacute;bite", "Fi&egrave;vre", "Hypertension non trait&eacute;e"]
-description: "Un massage tout en douceur aux huiles essentielles de lavande, camomille pour  l&acirc;cher prise et d&eacute;connecter."
+good: ["Détend en profondeur", "Permet une intégration du schéma corporel à la conscience", "Lâcher prise"]
+bad: ["Etats inflammatoires", "Phlébite", "Fièvre", "Hypertension non traitée"]
+description: "Un massage tout en douceur aux huiles essentielles de lavande, camomille pour  lâcher prise et déconnecter."
 ---
-Ce soin permet de se détendre, de se relaxer en 
-douceur pour évacuer tout le stress accumulé. 
-En englobant le corps, il permet également une 
-intégration complète du schéma corporel à la 
-conscience. 
+Ce soin permet de se détendre, de se relaxer en
+douceur pour évacuer tout le stress accumulé.
+En englobant le corps, il permet également une
+intégration complète du schéma corporel à la
+conscience.
 
 
-Il est composé d’effleurages lents et harmonieux, 
-de lissages fluides et longs, de bercements et de 
+Il est composé d’effleurages lents et harmonieux,
+de lissages fluides et longs, de bercements et de
 pétrissages doux.
 
 

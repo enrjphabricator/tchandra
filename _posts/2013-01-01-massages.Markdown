@@ -1,7 +1,7 @@
 ---
 lead: "Les massages"
 title: ""
-small_image: /img/articles/massages/massages/small.jpg
+small_image: img/articles/massages/massages/small.jpg
 permalink: massages.html
 slug: massages
 description: "Venez faire un tour du monde en massage."

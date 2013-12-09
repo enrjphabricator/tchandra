@@ -1,9 +1,9 @@
 ---
-css:  [/css/list.css, /css/links.css, /css/article.css]
+css:  [css/list.css, css/links.css, css/article.css]
 lead: "Massage balinais"
 title: "Massage balinais"
-small_image: /img/articles/massages/balinais/small.jpg
-big_image: /img/articles/massages/balinais/big.jpg
+small_image: img/articles/massages/balinais/small.jpg
+big_image: img/articles/massages/balinais/big.jpg
 layout: article
 section: massages
 section_title: Massages
@@ -12,9 +12,9 @@ time: 1h30
 price: 70
 slug: balinais
 links: [ ayurvedique, californien, tarif, beaute]
-good: ["Soulage les douleurs musculaires", "Diminue l&rsquo;anxi&eacute;t&eacute;", "R&eacute;duit spasmes et crampes", "Soulage les migraines"]
-bad: ["Femmes enceintes", "Apr&egrave;s une op&eacute;ration", "Hypertension non trait&eacute;e", "Fi&egrave;vre", "Plaies non cicatris&eacute;es"]
-description: "Un massage d&eacute;couverte  aux senteurs d&rsquo;Asie (ylang-ylang, frangipanier, jasmin) qui  vous fera voyager &agrave; Bali, l&rsquo;&icirc;le  des dieux. D&eacute;paysement garanti!"
+good: ["Soulage les douleurs musculaires", "Diminue l’anxiété", "Réduit spasmes et crampes", "Soulage les migraines"]
+bad: ["Femmes enceintes", "Après une opération", "Hypertension non traitée", "Fièvre", "Plaies non cicatrisées"]
+description: "Un massage découverte  aux senteurs d’Asie (ylang-ylang, frangipanier, jasmin) qui  vous fera voyager à Bali, l’île  des dieux. Dépaysement garanti!"
 ---
 Ce massage millénaire est né d’influences indienne et
 chinoise lors du commerce aux épices en Indonésie.
