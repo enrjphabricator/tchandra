@@ -1,0 +1,31 @@
+---
+css:  [css/list.css, css/links.css, css/article.css]
+lead: "Massage suedois"
+title: "Massage suédois"
+small_image: img/articles/massages/suedois/small.jpg
+big_image: img/articles/massages/suedois/big.jpg
+layout: article
+section: massages
+section_title: Massages
+permalink: massages/suedois.html
+time: 2h
+price: 90
+slug: suedois
+links: [ balinais, thai, tarif, charte]
+good: ["Draine, mobilise les toxines et aide à les éliminer", "Tonifie et relance la circulation sanguine et lymphatique", "Apaise le système nerveux", "Détend musculairement en profondeur"]
+bad: ["Etats inflammatoires", "Fièvre", "Phlébite", "Hypertension non traitée"]
+description: "A la fois ferme et doux, ce massage complet permet de détendre les tensions musculaires et facilite le drainage et l'élimination des toxines."
+---
+Le massage suédois allie fermeté et douceur.
+
+A la fois tonifiant et relaxant, il travaille en profondeur sur les
+muscles, les tendons et permet d’assouplir les articulations.
+
+Il détend musculairement, a une action sur le système
+lymphatique en accélerant l’élimination des toxines.
+Il favorise la circulation sanguine.
+Il est reconnu pour ses effets anti-stress
+et lutte contre l’anxiété et la dépression.
+
+Cette technique compléte utilise l’effleurage, le pétrissage, les
+frictions, les percussions ainsi que les tapotements.
