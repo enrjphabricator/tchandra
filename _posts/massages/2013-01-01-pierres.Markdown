@@ -11,7 +11,7 @@ permalink: massages/pierres.html
 time: 1h
 price: 60
 slug: pierres
-links: [tarif, balinais, relaxant, charte]
+links: [tarif, enceinte, relaxant, charte]
 good: ["Elimination des toxines", "Relancer la circulation lymphatique", "Oxygénation des tissus", "Décontraction musculaire", "Lâcher prise", "Améliorer la qualité du sommeil"]
 bad: ["Fièvre", "Problèmes cardio-vasculaires importants", "Maladies cardiaques", "Affections cutanées (eczéma, psoriasis)", "Femmes enceintes"]
 description: "Venez vous réchauffer, non pas au coin du feu mais avec un bon massage aux pierres chaudes! La chaleur diffusée par les pierres volcaniques vous détendra en profondeur!"
