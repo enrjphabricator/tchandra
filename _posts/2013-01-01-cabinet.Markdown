@@ -4,7 +4,7 @@ lead: "Le cabinet"
 title: "Tchandra massage - Cabinet"
 hide_title: "true"
 small_image: img/articles/cabinet/small.jpg
-big_image: img/articles/cabinet/big3.jpg
+big_image: img/articles/cabinet/big.jpg
 layout: article
 section: cabinet
 section_title: Le cabinet

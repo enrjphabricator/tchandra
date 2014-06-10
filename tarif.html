@@ -4,7 +4,7 @@ title: "Tchandra massage - Tarif"
 css:  [css/links.css, css/tarif.css]
 section: tarif
 section_title: Tarifs des massages et soins de beaut&eacute;
-massages: [ suedois, ayurvedique, balinais, thai, californien,pierres, enceinte, chinois, relaxant, reflexologie, dos]
+massages: [ suedois, deep_tissue, ayurvedique, balinais, thai, californien,pierres, enceinte, chinois, relaxant, reflexologie, dos]
 beaute: [visage, drainage, minceur, mains]
 ---
 <h1 style="margin-bottom: 10px;">{% include section_title.html %}</h1>
@@ -32,12 +32,13 @@ beaute: [visage, drainage, minceur, mains]
         <tr>
             <th colspan="3">Formules</th>
         </tr>
-        <tr><td>Formule annuelle : Un massage au choix par mois pendant 12 mois</td><td></td><td>600 &euro;</td></tr>
-        <tr><td>Formule 6 massages : Six massages au choix valable 6 mois </td><td> </td><td>360 &euro;</td></tr>
+        <tr><td>Formule annuelle : Un massage au choix par mois pendant 12 mois*</td><td></td><td>600 &euro;</td></tr>
+        <tr><td>Formule 6 massages : Six massages au choix valable 6 mois* </td><td> </td><td>360 &euro;</td></tr>
         <tr><td>Formule cocooning : Massage relaxant, réflexologie et soin du visage</td><td>3h</td><td>140 &euro;</td></tr>
         <tr><td>Formule sérénité : Massage du dos, réflexologie et soin du visage</td><td>2h30</td><td>120 &euro;</td></tr>
         <tr><td>Formule vitaminée : Massage ayurvédique et soin du visage </td><td>2h30</td><td>110 &euro;</td></tr>
-        <tr>
+        <tr><td>* supplément pour les massages deep tissue et suédois
+		<tr>
             <th colspan="3">Soins de Beauté</th>
         </tr>
 {% for slug in page.beaute %}
@@ -64,6 +65,10 @@ beaute: [visage, drainage, minceur, mains]
 </table>
 <h2>Offre Fidélité (valable 1 an)</h2>
 <p>6 massages achetés = 1 massage du dos offert ou un bon de 30 euros</p>
+<h2>Offre Parrainage (valable 2 mois)</h2>
+<p>Faites découvrir Tchandra à votre entourage et recevez une remise de 10% pour chaque personne parrainée, à utiliser dans les 2 mois
+suivant la venue de votre filleul, pour un massage d'1h minimum.
 <h2>Réductions</h2>
-<p style="margin-bottom:20px">-20% pour les moins de 20 ans, les étudiants et les demandeurs d'emploi sur présentation d'un justificatif (non cumulable avec une autre offre)</p>
+<p style="margin-bottom:20px">-10% pour les étudiants et les demandeurs d'emploi sur présentation d'un justificatif (non cumulable avec une autre offre).
+<p>Les offres et réductions ne sont pas cumulables.</p>
 

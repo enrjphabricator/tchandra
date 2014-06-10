@@ -7,6 +7,10 @@ section: charte
 permalink: cabinet.html
 layout: article
 slug: charte
-description: "Optez pour la qualité et l’authenticité chez Tchandra."
+description: "Optez pour la qualité et l’authenticité chez Tchandra.
+
+
+Les massages et soins se pratiquent dans un cadre sain, sans ambiguité.
+Ils ne sont ni à caractère sexuel, érotique ou tantrique!"
 ---
 

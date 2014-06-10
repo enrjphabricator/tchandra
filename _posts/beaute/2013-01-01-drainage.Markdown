@@ -9,7 +9,7 @@ section: beaute
 section_title: Beauté
 permalink: beaute/drainage.html
 time: 1h
-price: 50
+price: 55
 slug: drainage
 links: [tarif, visage, epilation, ayurvedique]
 description: "Pour retrouver des jambes légères."

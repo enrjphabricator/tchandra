@@ -8,13 +8,12 @@ layout: article
 section: beaute
 section_title: Beauté
 permalink: beaute/minceur.html
-time: 1h
-price: 50
+time: 1h15
+price: 60
 slug: minceur
 links: [tarif, visage, drainage, epilation]
 description: "Pour toutes celles et ceux qui veulent se sentir plus à l'aise dans leurs corps."
 ---
-Technique spécifique accompagnée d’un gommage
-pour sculpter ou raffermir la silhouette, remodelant
-votre corps.
+Technique de massage spécifique ciblé sur les cuisses et le ventre accompagnée d’un enveloppement 
+aux algues pour sculpter ou raffermir la silhouette, remodelant votre corps. 
 Se révèle très efficace en cure de 10 séances.

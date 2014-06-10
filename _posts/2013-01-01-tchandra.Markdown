@@ -14,6 +14,44 @@ links: [massages, contact, cabinet, cadeaux]
 description: "Tchandra est né pour vous proposer une qualité de vie en vous octroyant des moments de bien-être pour vous ressourcer et combattre le stress, la fatigue et la déprime."
 ---
 
+###Laure Espinat###
+Praticienne en massage de bien-être et esthéticienne
+
+"Le massage est une philosophie de vie. 
+Ecouter son corps, ses émotions, 
+permet de combattre le stress, l’anxiété et 
+favorise le lâcher prise pour aller vers 
+plus de sérénité et d’harmonie.
+
+
+Mon but est de proposer à tous et à toutes de 
+découvrir les massages et leurs bienfaits : prendre 
+soin de soi, retrouver une harmonie, redécouvrir son 
+corps et améliorer sa qualité de vie, en s’accordant 
+des moments précieux pour se ressourcer.
+
+
+Une régularité dans les massages permet de chasser 
+certaines tensions musculaires persistantes,
+apprendre à lâcher prise sur le long terme, se 
+ressourcer pour tenir le stress à l’écart, drainer et 
+détoxifier le corps pour se sentir plus à l’aise dans son 
+corps et améliorer l’énergie qui circule dans le corps.
+
+J’ai découvert les massages lors de mes nombreux 
+périples en Asie. Là bas, le massage est pratiqué et 
+reçu au quotidien parce qu’il participe à l’équilibre et 
+au bien-être des gens. 
+
+
+M’étant formée à l’institut Cassiopée, à l’école 
+d’esthétique Marbeuf à Paris, à Bali, en Thaïlande au 
+Wat Po et à l’école ITM, je souhaite vous transmettre 
+ce bien-être que l’on peut ressentir quand on prend 
+du temps pour soi."
+
+
+
 ###Tchandra ###
 est une divinité lunaire hindoue qui veut dire littéralement "lumineux".
 Elle est dépeinte sous les traits d’un jeune homme tenant
@@ -21,31 +59,4 @@ dans ses deux bras un lotus.
 Il a une influence particulière sur la santé des gens.
 Il préside aux eaux vitales,aux pluies, à la fertilité, aux herbes
 médicinales et donne aux mortels l'opulence et la santé.
-
-###Laure Espinat###
-Praticienne en massage de bien-être et esthéticienne
-
-“J’ai découvert les massages lors de mes nombreux
-périples en Asie. Là bas, le massage est pratiqué
-et reçu au quotidien parce qu’il participe à
-l’équilibre et au bien-être des gens.
-
-
-M’étant formée à l’institut Cassiopée, à l’école
-d’esthétique Marbeuf à Paris, à Bali, en Thaïlande
-au Wat Po, je souhaite vous transmettre ce
-bien-être que l’on peut ressentir quand on prend
-du temps pour soi.
-
-
-Le massage est une philosophie de vie. Ecouter son corps, ses émotions,
-permet de combattre le stress, l'anxiété et favorise le lâcher prise pour aller vers
-plus de sérénité et d'harmonie.
-
-
-Mon but est de permettre à tous et à toutes de découvrir
-les massages et leurs bienfaits, de permettre aux gens de
-prendre soin d’eux, de retrouver une harmonie, de
-redécouvrir leur corps et d’améliorer leur qualité de vie,
-en s’accordant des moments précieux pour se ressourcer.”
 
