@@ -1,5 +1,5 @@
 safe:        false
-#baseurl:    /tchandra
+baseurl: http://tchandra-massage.fr/
 url: http://tchandra-massage.fr
 
 source:      .
