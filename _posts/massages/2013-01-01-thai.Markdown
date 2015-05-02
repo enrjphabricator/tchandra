@@ -14,7 +14,7 @@ slug: thai
 links: [tarif, charte, reflexologie, chinois]
 good: ["Elimination des toxines", "Augmentation de la défense immunitaire", "Meilleure souplesse corporelle", "Stimulation des circulations sanguine et lymphatique", "Plus grand confort de vie"]
 bad: ["Fractures, Entorses", "Fièvre", "Cardiopathie sévère", "Phlébite", "Varice", "Inflammation musculaire"]
-description: "\"Le yoga des paresseux\" Ce massage vous permettra de retrouver vitalité et souplesse en dénouant les tensions accumulées."
+description: "\"Le yoga des paresseux\" Ce massage sans huile, composé d'étirements, de pressions avec les paumes de la main vous permettra de retrouver vitalité et souplesse en douceur."
 ---
 
 Massage qui se reçoit habillé, au sol sur un futon. 

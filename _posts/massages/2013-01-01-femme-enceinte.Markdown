@@ -11,7 +11,7 @@ permalink: massages/enceinte.html
 time: 1h
 price: 60
 slug: enceinte
-links: [ balinais, thai, tarif, charte]
+links: [ visage, tarif, tchandra, charte]
 advice: ["Seulement pour les femmes enceintes à partir du 4e mois"]
 good: ["Relance la circulation sanguine et lymphatique dans les jambes", "Dénoue les tensions dans le dos", "Permet de lâcher prise"]
 bad: ["Etats inflammatoires", "Fièvre", "Phlébite", "Hypertension non traitée"]

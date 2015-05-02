@@ -11,10 +11,10 @@ permalink: massages/deep_tissue.html
 time: 1h40
 price: 80
 slug: deep_tissue
-links: [ suedois, thai, tarif, charte]
+links: [ ayurvedique, thai, tarif, charte]
 good: ["Draine, mobilise les toxines et aide à les éliminer", "Tonifie et relance la circulation sanguine et lymphatique", "Apaise le système nerveux", "Détend musculairement en profondeur"]
 bad: ["Etats inflammatoires", "Fièvre", "Phlébite", "Hypertension non traitée"]
-description: "Un massage parfait pour dénouer en profondeur les tensions musculaires et retrouver calme et fluidité dans son corps et son esprit."
+description: "Un massage lent et profond parfait pour dénouer les tensions musculaires et retrouver calme et fluidité dans son corps et son esprit."
 ---
 Cette technique vise à dénouer en profondeur les 
 tensions musculaires et nerveuses. 

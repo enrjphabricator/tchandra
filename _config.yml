@@ -1,5 +1,5 @@
 safe:        false
-baseurl: http://tchandra-massage.fr/
+#baseurl: http://tchandra-massage.fr/
 url: http://tchandra-massage.fr
 
 source:      .
@@ -8,7 +8,6 @@ plugins:     ./_plugins
 encoding:    "utf-8"
 future:      true
 lsi:         false
-pygments:    false
-markdown:    maruku
+highlighter:    false
 permalink:   none
 

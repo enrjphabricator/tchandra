@@ -11,7 +11,7 @@ permalink: massages/dos.html
 time: 30min
 price: 30
 slug: dos
-links: [pierres, relaxant, beaute, tarif]
+links: [deep_tissue, ayurvedique, beaute, tarif]
 advice: ["Ce soin peut être également recommandé aux personnes qui se font masser pour la première fois."]
 description: "Massage idéal pour tous ceux qui en ont plein le dos!"
 ---
