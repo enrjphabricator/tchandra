@@ -9,7 +9,7 @@ section: massages
 section_title: Massages
 permalink: massages/balinais.html
 time: 1h30
-price: 70
+price: 75
 slug: balinais
 links: [ ayurvedique, californien, tarif, beaute]
 good: ["Soulage les douleurs musculaires", "Diminue l’anxiété", "Réduit spasmes et crampes", "Soulage les migraines"]
