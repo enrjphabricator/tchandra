@@ -9,7 +9,7 @@ section: massages
 section_title: Massages
 permalink: massages/dos.html
 time: 30min
-price: 30
+price: 35
 slug: dos
 links: [deep_tissue, ayurvedique, beaute, tarif]
 advice: ["Ce soin peut être également recommandé aux personnes qui se font masser pour la première fois."]
