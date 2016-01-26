@@ -9,7 +9,7 @@ section: massages
 section_title: Massages
 permalink: massages/reflexologie.html
 time: 1h
-price: 50
+price: 55
 slug: reflexologie
 links: [chinois, thai, mains, tarif]
 good: ["Détend en profondeur", "Prévient des troubles tels que les maux de têtes, le stress, l'asthme, la constipation, la sinusite et les migraines"]
