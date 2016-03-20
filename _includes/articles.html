@@ -1,7 +1,7 @@
 <section id="articles">
 {% for slug in page.links %}
     {% for post in site.posts %}
-        post.slug
+        {{ post.slug }}
         {% if post.slug == slug %}
     <article>
         <a href="{{ post.url }}">
