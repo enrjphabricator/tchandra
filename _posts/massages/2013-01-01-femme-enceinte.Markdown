@@ -10,14 +10,12 @@ section_title: Massages
 permalink: massages/enceinte.html
 time: 1h
 price: 60
-slug: 'enceinte'
+slug: enceinte
 links: [ visage, tarif, tchandra, charte]
 advice: ["Seulement pour les femmes enceintes à partir du 4e mois"]
 good: ["Relance la circulation sanguine et lymphatique dans les jambes", "Dénoue les tensions dans le dos", "Permet de lâcher prise"]
 bad: ["Etats inflammatoires", "Fièvre", "Phlébite", "Hypertension non traitée"]
-description: "Très enveloppant et dans un esprit cocooning, ce massage offre
-un moment de détente chaleureux en connection avec son corps
-afin de vivre une grossesse sereinement et en forme."
+description: "Très enveloppant et dans un esprit cocooning, ce massage offre un moment de détente chaleureux en connection avec son corps afin de vivre une grossesse sereinement et en forme."
 ---
 Ce soin est destiné aux femmes enceintes à partir du 4e
 mois de grossesse.
