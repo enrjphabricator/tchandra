@@ -4,7 +4,7 @@
         {% if post.slug == slug %}
     <article>
         <a href="{{ post.url }}">
-            <img width="190px" height="190px" src="{{ site.baseurl }}{{ post.small_image }}">
+            <img width="190px" height="190px" src="/{{ post.small_image }}">
         </a>
         <header>
             <h1>
@@ -17,7 +17,7 @@
             {% endif %}
             {% if post.layout == 'article' %}
         &nbsp;
-        <iframe src="//www.facebook.com/plugins/like.php?href={{ site.url | replace:':','%3A' | replace:'/','%2F' }}{{ post.url | replace:'/','%2F' }}&amp;send=false&amp;layout=button_count&amp;width=82&amp;show_faces=true&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21" scrolling="no" frameborder="0" style="bottom: 20px;position: absolute;border:none; overflow:hidden; width:90px; height:21px;right: 10px;" allowTransparency="true">
+        <iframe src="//www.facebook.com/plugins/like.php?href={{ site.url | replace:':','%3A' | replace:'/','%2F' }}{{ post.url | replace:'/','%2F' }}&amp;send=false&amp;layout=button_count&amp;width=82&amp;show_faces=true&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21" scrolling="no" frameborder="0" style="bottom: 20px;position: absolute;border:none; overflow:hidden; width:92px; height:21px;right: 10px;" allowTransparency="true">
         </iframe>
             {% endif %}
      </article>

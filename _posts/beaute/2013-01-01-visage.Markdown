@@ -30,23 +30,23 @@ Ce soin à base de produits naturels s’adapte à votre type de
 peau et lui permet de retrouver éclat et vitalité.
 
 
-###Oasis de l'éternité###
+<h3>Oasis de l'éternité</h3>
 
 Soin anti-âge réparateur pour retrouver jeunesse et vitalité.
 
-###Oasis des sources vives###
+<h3>Oasis des sources vives</h3>
 
 Soin hydra-âge pour peaux sèches et peaux déshydratées.
 Retrouvez une hydratation profonde et permanente de la
 peau.
 
 
-###Oasis du temple de sérénité###
+<h3>Oasis du temple de sérénité</h3>
 
 Soin apaisant  pour peaux sensibles et irritées.
 Retrouvez une peau désensibilisée et confortable.
 
-###Oasis de la pureté###
+<h3>Oasis de la pureté</h3>
 
 Soin purifiant pour peaux grasses.
 Retrouvez une peau nette.

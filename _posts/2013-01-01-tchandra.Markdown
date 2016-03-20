@@ -14,34 +14,34 @@ links: [massages, contact, cabinet, cadeaux]
 description: "Tchandra est né pour vous proposer une qualité de vie en vous octroyant des moments de bien-être pour vous ressourcer et combattre le stress, la fatigue et la déprime."
 ---
 
-###Laure Espinat###
+<h3>Laure Espinat</h3>
 Praticienne en massage de bien-être et esthéticienne
 
-"Le massage est une philosophie de vie. 
-Ecouter son corps, ses émotions, 
-permet de combattre le stress, l’anxiété et 
-favorise le lâcher prise pour aller vers 
+"Le massage est une philosophie de vie.
+Ecouter son corps, ses émotions,
+permet de combattre le stress, l’anxiété et
+favorise le lâcher prise pour aller vers
 plus de sérénité et d’harmonie.
 
 
-Mon but est de proposer à tous et à toutes de 
-découvrir les massages et leurs bienfaits : prendre 
-soin de soi, retrouver une harmonie, redécouvrir son 
-corps et améliorer sa qualité de vie, en s’accordant 
+Mon but est de proposer à tous et à toutes de
+découvrir les massages et leurs bienfaits : prendre
+soin de soi, retrouver une harmonie, redécouvrir son
+corps et améliorer sa qualité de vie, en s’accordant
 des moments précieux pour se ressourcer.
 
 
-Une régularité dans les massages permet de chasser 
+Une régularité dans les massages permet de chasser
 certaines tensions musculaires persistantes,
-apprendre à lâcher prise sur le long terme, se 
-ressourcer pour tenir le stress à l’écart, drainer et 
-détoxifier le corps pour se sentir plus à l’aise dans son 
+apprendre à lâcher prise sur le long terme, se
+ressourcer pour tenir le stress à l’écart, drainer et
+détoxifier le corps pour se sentir plus à l’aise dans son
 corps et améliorer l’énergie qui circule dans le corps.
 
-J’ai découvert les massages lors de mes nombreux 
-périples en Asie. Là bas, le massage est pratiqué et 
-reçu au quotidien parce qu’il participe à l’équilibre et 
-au bien-être des gens. 
+J’ai découvert les massages lors de mes nombreux
+périples en Asie. Là bas, le massage est pratiqué et
+reçu au quotidien parce qu’il participe à l’équilibre et
+au bien-être des gens.
 
 
 Formée à l’institut Cassiopée en France, à Bali, en Thaïlande
@@ -55,8 +55,8 @@ Alors, laissez vous tenter, venez voyager à travers mes massages!"
 
 
 
-###Tchandra ###
-Pour la petite histoire, Tchandra ou Chandra est une divinité lunaire hindoue qui veut dire 
+<h3>Tchandra</h3>
+Pour la petite histoire, Tchandra ou Chandra est une divinité lunaire hindoue qui veut dire
 littéralement "lumineux".
 Elle est dépeinte sous les traits d’un jeune homme tenant
 dans ses deux bras un lotus qui a pour but de donner la santé des gens.

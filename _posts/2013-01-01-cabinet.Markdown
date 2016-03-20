@@ -26,9 +26,9 @@ de bien-être.
 Optez pour la qualité et l’authenticité chez
 Tchandra.
 
-###La charte Tchandra###
+<h3>La charte Tchandra</h3>
 
-####Donner des soins de qualité.####
+<h4>Donner des soins de qualité.</h4>
 Formée en Asie et en France, dans des organismes
 reconnus, mes massages et soins sont pratiqués avec
 connaissance, authenticité et rigueur.
@@ -36,11 +36,11 @@ Ils n’ont pas pour prétention de se substituer au travail
 des kinésithérapeutes. Ils ne peuvent en aucun cas régler
 des problèmes médicaux.
 
-####Recevoir dans un cadre propre, sain et sans ambiguité.####
+<h4>Recevoir dans un cadre propre, sain et sans ambiguité.</h4>
 Le linge est changé et nettoyé après chaque client.
 Les massages proposés ne sont pas à caractère sexuel
 ni érotique.
 
-####Utiliser des huiles essentielles et végétales Bio###
+<h4>Utiliser des huiles essentielles et végétales Bio</h3>
 reconnues pour leurs vertues relaxantes, régénérantes,
 tonifiantes.

@@ -9,10 +9,10 @@
         <h1>{% include section_title.html %}</h1>
         {% endif %}
         &nbsp;
-        <iframe src="//www.facebook.com/plugins/like.php?href={{ site.url | replace:':','%3A' | replace:'/','%2F' }}{{ page.url | replace:'/','%2F' }}&amp;send=false&amp;layout=button_count&amp;width=82&amp;show_faces=true&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;vertical-align: text-top;" allowTransparency="true">
+        <iframe src="//www.facebook.com/plugins/like.php?href={{ site.url | replace:':','%3A' | replace:'/','%2F' }}{{ page.url | replace:'/','%2F' }}&amp;send=false&amp;layout=button_count&amp;width=82&amp;show_faces=true&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:92px; height:21px;vertical-align: text-top;" allowTransparency="true">
         </iframe>
         </header>
-        <img width="320px" src="{{ site.baseurl }}{{ page.big_image }}" >
+        <img width="320px" src="/{{ page.big_image }}" >
         <div>
         {{ content }}
             {% if page.good %}
