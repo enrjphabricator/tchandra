@@ -9,7 +9,7 @@ section: massages
 section_title: Massages
 permalink: massages/relaxant.html
 time: 1h
-price: 55
+price: 60
 slug: relaxant
 links: [pierres, californien,visage, tarif]
 good: ["Détend en profondeur", "Permet une intégration du schéma corporel à la conscience", "Lâcher prise"]
