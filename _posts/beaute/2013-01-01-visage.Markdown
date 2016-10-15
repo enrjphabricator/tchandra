@@ -9,7 +9,7 @@ section: beaute
 section_title: Beauté
 permalink: beaute/visage.html
 time: 1h
-price: 60
+price: 65
 slug: visage
 links: [tarif, epilation, massages, cabinet]
 description: "Prendre soin de soi, c'est aussi prendre soin de sa peau."
