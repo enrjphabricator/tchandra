@@ -13,13 +13,11 @@ slug: cabinet
 links: [massages, contact, beaute, tchandra]
 description: "Venez prendre soin de vous au coeur de Paris, dans le Marais."
 ---
-Je vous reçois dans mon appartement
-parisien du 3e arrondissement au coeur
-du Marais.
+Le cabinet se trouve au fond d'une cour calme et agréable dans le quartier du Marais.
 Sur fond de musique relaxante, vous
 pouvez commencer à lâcher prise.
 Les huiles de massage préparées à base
-d’huiles essentielles bio vous permettent
+d’huiles essentielles et végétales bio vous permettent
 de partir loin en voyage et vous
 garantissent une parenthèse enchantée
 de bien-être.
