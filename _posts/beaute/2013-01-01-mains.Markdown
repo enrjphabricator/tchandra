@@ -9,7 +9,7 @@ section: beaute
 section_title: Beauté
 permalink: beaute/mains.html
 time: 30 min
-price: 30
+price: 35
 slug: mains
 links: [tarif, visage, epilation]
 description: "Pour être belle jusqu'aux bouts des ongles."
