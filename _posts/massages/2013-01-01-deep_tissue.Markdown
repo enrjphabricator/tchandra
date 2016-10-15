@@ -9,7 +9,7 @@ section: massages
 section_title: Massages
 permalink: massages/deep_tissue.html
 time: 1h40
-price: 85
+price: 90
 slug: deep_tissue
 links: [ ayurvedique, thai, tarif, charte]
 good: ["Draine, mobilise les toxines et aide à les éliminer", "Tonifie et relance la circulation sanguine et lymphatique", "Apaise le système nerveux", "Détend musculairement en profondeur"]
