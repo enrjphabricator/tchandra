@@ -13,7 +13,8 @@ price: 65€
 slug: intuitif
 links: [ ayurvedique, californien, tarif, beaute]
 
-description: "Un massage sur mesure, adapté à vos besoins pour encore plus de détente et de bien-être."
+description: "Un massage sur mesure, adapté à vos besoins pour encore plus de détente et de bien-être.
+Format d'1h, 1h15, 1h30 et 2h."
 ---
 Ce massage commence par un entretien pour savoir comment vous vous sentez, sur quoi, 
 quelles parties du corps vous souhaitez travailler et en fonction de votre énergie, vos 
