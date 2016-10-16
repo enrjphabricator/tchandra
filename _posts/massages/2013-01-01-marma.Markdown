@@ -14,7 +14,7 @@ slug: marma
 links: [ayuvedique, chineitsang, reflexologie, chinois]
 good: ["Elimination des toxines", "Stimulation des circulations sanguine et lymphatique", "Retrouver de l'énergie"]
 bad: ["Etats inflammatoires", "Fièvre", "Hypertension non traitée"]
-description: "un voyage au centre de vos énergies, dans les traditions de l’Inde."
+description: "Un voyage au centre de vos énergies pour harmoniser le corps et l'esprit, dans les traditions de l’Inde."
 ---
 
 Les marmas sont des points d’énergies sensibles 
