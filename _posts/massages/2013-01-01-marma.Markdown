@@ -1,0 +1,42 @@
+---
+css:  [css/list.css, css/links.css, css/article.css]
+lead: "Massage Marma"
+title: "Massage Marma"
+small_image: img/articles/massages/thai/small.jpg
+big_image: img/articles/massages/thai/big.jpg
+layout: article
+section: massages
+section_title: Massages
+permalink: massages/thai.html
+time: 1h30
+price: 85
+slug: marma
+links: [tarif, charte, reflexologie, chinois]
+good: ["Elimination des toxines", "Augmentation de la défense immunitaire", "Meilleure souplesse corporelle", "Stimulation des circulations sanguine et lymphatique", "Plus grand confort de vie"]
+bad: ["Fractures, Entorses", "Fièvre", "Cardiopathie sévère", "Phlébite", "Varice", "Inflammation musculaire"]
+description: "\"Le yoga des paresseux\" Ce massage sans huile, composé d'étirements, de pressions avec les paumes de la main vous permettra de retrouver vitalité et souplesse en douceur."
+---
+
+Massage qui se reçoit habillé, au sol sur un futon. 
+
+Vieux de 2500 ans, il est inspiré des asanas 
+(postures) du yoga et est également appelé
+"le yoga des paresseux".
+
+Lorsque l’énergie est bloquée ou restreinte,
+un déséquilibre s’ensuit et entraine des
+problèmes de santé.
+
+Pour traiter le corps tout entier, le massage thaï se concentre 
+sur 10 des principaux canaux énergétiques qui permettent 
+la diffusion du souffle vital dans le corps.
+
+Il dénoue nœuds et tensions grâce à des 
+étirements (de toutes les parties du corps), des pressions 
+profondes exercées par les paumes de la main, les pouces
+et les pieds de la masseuse. 
+C’est un massage complet qui permet de relancer l’énergie, 
+de retrouver vitalité et souplesse.
+
+
+

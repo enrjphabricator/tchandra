@@ -8,8 +8,8 @@ layout: article
 section: massages
 section_title: Massages
 permalink: massages/intuitif.html
-time: 1h/ 1h15/ 1h30/ 2h
-price: 65€ / 75€ / 85€/ 115€
+time: 1h
+price: 65€
 slug: intuitif
 links: [ ayurvedique, californien, tarif, beaute]
 
@@ -18,9 +18,13 @@ description: "Un massage sur mesure, adapté à vos besoins pour encore plus de 
 Ce massage commence par un entretien pour savoir comment vous vous sentez, sur quoi, 
 quelles parties du corps vous souhaitez travailler et en fonction de votre énergie, vos 
 tensions et blocages, je vous propose un massage adapté à vos besoins, vos envies.
+
+
 Cette approche utilise différentes techniques de massages que j’ai appris à travers le monde 
 pour vous offrir un soin le plus personnalisé possible et pour pouvoir être au plus près de ce
 qui est bon pour vous.
+
+
 Les différentes techniques employées proviennent des massages ayurvédique indien, 
 deep-tissue, thaï, balinais, chinois, californien, chi nei tsang(ventre), réflexologie, suédois.
 Il existe en différents formats d'1h, 1h15,1h30 ou 2h.
