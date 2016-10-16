@@ -1,7 +1,7 @@
 ---
 css:  [css/list.css, css/links.css, css/article.css]
-lead: "Soin minceur"
-title: "Soin minceur"
+lead: "Soin minceur et enveloppement aux algues"
+title: "Soin minceur et enveloppement aux algues"
 small_image: img/articles/beaute/minceur/small.jpg
 big_image: img/articles/beaute/minceur/big.jpg
 layout: article
