@@ -13,8 +13,8 @@ links: []
 ---
 <article class="main clearfix">
     <h1 class="header" >{% include section_title.html %}</h1>
-    <iframe width="320" height="426" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.fr/maps?f=q&amp;source=s_q&amp;hl=fr&amp;geocode=&amp;q=10+Rue+de+Bretagne,+75003+Paris&amp;aq=0&amp;oq=10+Rue+de+Bretagne,+Paris+75&amp;sll=-15.705042,-49.365315&amp;sspn=11.847449,21.643066&amp;ie=UTF8&amp;hq=&amp;hnear=10+Rue+de+Bretagne,+75003+Paris,+%C3%8Ele-de-France&amp;t=m&amp;z=14&amp;ll=48.862306,2.363726&amp;output=embed"></iframe>
-    <div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4813.747953202693!2d2.3616212178044425!3d48.86365085311257!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e0645cb39d3%3A0xcd92568e5648b42f!2s75+Rue+Charlot%2C+75003+Paris!5e0!3m2!1sfr!2sfr!4v1476624071126" width="320" height="426" frameborder="0" style="border:0" allowfullscreen></iframe>
+   <div>
         <p>Massages et soins sur rendez-vous uniquement.</p>
         <p>Du lundi au vendredi de 10h à 20h et le samedi de 10h à 17h.</p>
         <address>
