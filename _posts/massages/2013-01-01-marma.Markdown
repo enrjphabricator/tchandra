@@ -1,6 +1,6 @@
 ---
 css:  [css/list.css, css/links.css, css/article.css]
-lead: "Massage Marma"
+lead: "Massage ayurvédique Marma"
 title: "Massage ayurvédique Marma"
 small_image: img/articles/massages/marma/small.jpg
 big_image: img/articles/massages/marma/big.jpg
