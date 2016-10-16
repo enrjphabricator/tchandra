@@ -23,7 +23,7 @@ links: []
             Mail: <span class="colored">lauremassage@gmail.com</span><br />
             Adresse: <span class="colored">75 rue Charlot 75003 Paris</span><br />
             Métro: <span class="colored">République lignes 3, 5, 8, 9 et 11,  
-            Filles du calvaire ligne 8, 
+            Filles du Calvaire ligne 8, 
             Temple ligne 3, 
             Oberkampf ligne 5 et 9</span><br />
             Bus: <span class="colored">Jean-Pierre Timbaud -ligne 65 et 20 / Bretagne - ligne 96</span><br />
