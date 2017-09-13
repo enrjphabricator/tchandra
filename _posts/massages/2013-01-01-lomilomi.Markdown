@@ -1,0 +1,32 @@
+---
+css:  [css/list.css, css/links.css, css/article.css]
+lead: "Massage lomi lomi"
+title: "Massage lomi lomi"
+small_image: img/articles/massages/lomilomi/small.jpg
+big_image: img/articles/massages/lomilomi/big.jpg
+layout: article
+section: massages
+section_title: Massages
+permalink: massages/lomilomi.html
+time: 1h15
+price: 70
+slug: lomilomi
+links: [balinais, relaxant, beaute, tarif]
+good: ["Elimination des toxines", "Relancer la circulation lymphatique", "Oxygénation des tissus", "Décontraction musculaire", "Lâcher prise"]
+bad: ["Etats inflammatoires", "Hypertension non traitée"]
+description: "Un massage harmonieux aux senteurs tropicales!"
+---
+Ce massage est né à la fin des années 60 sur la
+côte ouest des Etats-Unis.
+
+
+Il a été élaboré dans l’esprit de prendre en
+charge le corps dans sa globalité.
+Ce massage de relaxation permet de se détendre
+en profondeur et se décontracter
+musculairement.
+
+
+Il a également une action sur les système
+nerveux, digestifs et d’élimination et améliore
+la circulation sanguine et lymphatique.
