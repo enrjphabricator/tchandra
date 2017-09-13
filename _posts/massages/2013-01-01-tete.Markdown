@@ -1,0 +1,32 @@
+---
+css:  [css/list.css, css/links.css, css/article.css]
+lead: "Massage de la tête"
+title: "Massage de la tête"
+small_image: img/articles/massages/tete/small.jpg
+big_image: img/articles/massages/tete/big.jpg
+layout: article
+section: massages
+section_title: Massages
+permalink: massages/tete.html
+time: 1h
+price: 65
+slug: tete
+links: [thai, relaxant, beaute, tarif]
+good: ["Pour les personnes souffrant de bruxisme, migraines et tensions", "Lâcher prise"]
+bad: ["Etats inflammatoires", "Hypertension non traitée"]
+description: "Un soin pour lâcher prise et arrêter de se prendre la tête!"
+---
+Ce massage, en provenance d'Asie, apaisant et lent permet de dissoudre 
+les tensions accumulées au niveau des épaules, du cou, de la tête et du visage. 
+Il agit sur de nombreuses terminaisons nerveuses 
+réflexes et relaxe profondément.
+Il calme le flux des pensées et apaise la suractivité
+mentale.
+Les pressions exercées permettent de lâcher 
+prise mentalement et physiquement.
+Il est recommandé pour tout ceux et celles qui
+veulent “déconnecter” et aux personnes souffrant
+de troubles du sommeil et maux de tête.
+
+
+
