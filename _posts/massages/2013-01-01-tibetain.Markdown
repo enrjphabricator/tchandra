@@ -1,0 +1,32 @@
+---
+css:  [css/list.css, css/links.css, css/article.css]
+lead: "Massage tibetain"
+title: "Massage tibetain"
+small_image: img/articles/massages/tibetain/small.jpg
+big_image: img/articles/massages/tibetain/big.jpg
+layout: article
+section: massages
+section_title: Massages
+permalink: massages/tibetain.html
+time: 1h15
+price: 75
+slug: tibetain
+links: [chinois, chineitsang, thai, tarif]
+good: ["Pour les personnes souffrant de bruxisme, migraines et tensions", "Lâcher prise"]
+bad: ["Etats inflammatoires", "Hypertension non traitée"]
+description: "Un soin très enveloppant pour un lâcher prise total et une détente profonde."
+---
+Le massage tibetain nous vient d’une 
+terre lointaine, parmi les plus hautes 
+de la planète.
+Ce massage issu de la tradition tibétaine
+est un vrai cadeau à s’offrir. 
+Il permet à la fois de dénouer les tensions 
+musculaires en profondeur et de 
+ré-équilibrer les énergies circulant 
+dans le corps.
+Il alterne points d’acupressions sur des 
+lignes d’énergie, lissages et pétrissages.
+C’est un soin très enveloppant pour un 
+lâcher prise total et une détente profonde.
+
