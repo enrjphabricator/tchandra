@@ -11,7 +11,7 @@ permalink: massages/tete.html
 time: 1h
 price: 65
 slug: tete
-links: [thai, relaxant, beaute, tarif]
+links: [thai, reflexologie, beaute, tarif]
 good: ["Pour les personnes souffrant de bruxisme, migraines et tensions", "Lâcher prise"]
 bad: ["Etats inflammatoires", "Hypertension non traitée"]
 description: "Un soin pour lâcher prise et arrêter de se prendre la tête!"
