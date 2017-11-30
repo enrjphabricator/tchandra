@@ -9,24 +9,35 @@ section: massages
 section_title: Massages
 permalink: massages/lomilomi.html
 time: 1h15
-price: 70
+price: 80
 slug: lomilomi
-links: [balinais, relaxant, beaute, tarif]
+links: [balinais, deeptissue, cabinet, tarif]
 good: ["Elimination des toxines", "Relancer la circulation lymphatique", "Oxygénation des tissus", "Décontraction musculaire", "Lâcher prise"]
 bad: ["Etats inflammatoires", "Hypertension non traitée"]
-description: "Un massage harmonieux aux senteurs tropicales!"
+description: "Un massage harmonieux aux senteurs tropicales pour se retrouver dans sa vie, son être et son essence.
+Un beau voyage à s’offrir."
 ---
-Ce massage est né à la fin des années 60 sur la
-côte ouest des Etats-Unis.
+Ce soin est une technique ancestrale, héritée des indigènes polynésiens d’Hawaï et notamment
+des maîtres guérisseurs traditionnels.
+Il permet de reconnecter toutes les parties composant notre être et d’harmoniser l’énergie qui 
+circulent en chacun de nous, appelée MANA. Dans la tradition hawaienne, douleurs, contrariétés 
+et anxiété proviennent en réalité d'une mauvaise circulation de cette énergie qui ne demande qu’à 
+être réharmoniser.
+Plus qu’un simple massage, ce soin authentique est l’expression de la philosophie polynésienne
+et se donne dans l’esprit d’ALOHA (respect, attention et amour).
+Ce massage influencé par les arts martiaux et la danse utilise des manoeuvres fluides et 
+rythmées.
+Il est réalisé avec les avants-bras, les mains et les 
+poings et a pour but de se recentrer, de revenir 
+à soi en lachant prise.
+Il stimule la circulation lymphatique et sanguine, 
+dénoue les tensions musculaires, 
+ré-harmonise et permet à l’énergie de mieux 
+circuler dans le corps.
+
+C’est un soin holistique puissant qui permet d’
+équilibrer les rapports corps/esprit, 
+intérieur/extérieur, physique/mental.
 
 
-Il a été élaboré dans l’esprit de prendre en
-charge le corps dans sa globalité.
-Ce massage de relaxation permet de se détendre
-en profondeur et se décontracter
-musculairement.
 
-
-Il a également une action sur les système
-nerveux, digestifs et d’élimination et améliore
-la circulation sanguine et lymphatique.
