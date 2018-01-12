@@ -9,7 +9,7 @@ section: massages
 section_title: Massages
 permalink: massages/chinois.html
 time: 1h
-price: 60
+price: 65
 slug: chinois
 links: [tarif, thai, reflexologie, visage]
 bad: ["Femmes enceintes", "Etats inflammatoires", "Phlébite", "Fièvre", "Hypertension non traitée"]
