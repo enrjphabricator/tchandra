@@ -9,7 +9,7 @@ section: massages
 section_title: Massages
 permalink: massages/marma.html
 time: 1h40
-price: 90
+price: 95
 slug: marma
 links: [ayuvedique, chineitsang, reflexologie, chinois]
 good: ["Elimination des toxines", "Stimulation des circulations sanguine et lymphatique", "Retrouver de l'énergie"]
