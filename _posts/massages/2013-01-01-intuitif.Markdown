@@ -9,7 +9,7 @@ section: massages
 section_title: Massages
 permalink: massages/intuitif.html
 time: 1h
-price: 65
+price: 70
 slug: intuitif
 links: [ ayurvedique, californien, tarif, beaute]
 
