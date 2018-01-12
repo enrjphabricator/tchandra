@@ -9,7 +9,7 @@ section: massages
 section_title: Massages
 permalink: massages/thai.html
 time: 1h30
-price: 85
+price: 90
 slug: thai
 links: [tarif, charte, reflexologie, chinois]
 good: ["Elimination des toxines", "Augmentation de la défense immunitaire", "Meilleure souplesse corporelle", "Stimulation des circulations sanguine et lymphatique", "Plus grand confort de vie"]
