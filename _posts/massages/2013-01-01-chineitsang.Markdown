@@ -9,7 +9,7 @@ section: massages
 section_title: Massages
 permalink: massages/chineitsang.html
 time: 1h
-price: 65
+price: 70
 slug: chineitsang
 links: [ visage, tarif, tchandra, charte]
 advice: ["Recevoir ce soin en cure à raison d'une fois par semaine pendant 1 mois ou une fois par mois sur le long terme permet de tenir loin de soi virus et maladies."]
