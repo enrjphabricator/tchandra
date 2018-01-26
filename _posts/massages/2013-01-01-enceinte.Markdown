@@ -9,7 +9,7 @@ section: massages
 section_title: Massages
 permalink: massages/enceinte.html
 time: 1h
-price: 70
+price: 65
 slug: enceinte
 links: [ visage, tarif, tchandra, charte]
 advice: ["Seulement pour les femmes enceintes à partir du 4e mois"]
