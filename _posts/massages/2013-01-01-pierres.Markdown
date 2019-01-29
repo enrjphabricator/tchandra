@@ -9,7 +9,7 @@ section: massages
 section_title: Massages
 permalink: massages/pierres.html
 time: 1h /1h30
-price: 70 / 90
+price: 70 / 95
 slug: pierres
 links: [tarif, enceinte, relaxant, charte]
 good: ["Elimination des toxines", "Relancer la circulation lymphatique", "Oxygénation des tissus", "Décontraction musculaire", "Lâcher prise", "Améliorer la qualité du sommeil"]
