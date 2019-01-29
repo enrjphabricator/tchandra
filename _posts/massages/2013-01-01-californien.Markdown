@@ -9,7 +9,7 @@ section: massages
 section_title: Massages
 permalink: massages/californien.html
 time: 1h15
-price: 75
+price: 80
 slug: californien
 links: [balinais, relaxant, beaute, tarif]
 good: ["Elimination des toxines", "Relancer la circulation lymphatique", "Oxygénation des tissus", "Décontraction musculaire", "Lâcher prise"]
