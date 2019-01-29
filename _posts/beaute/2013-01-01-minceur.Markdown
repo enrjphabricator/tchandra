@@ -9,7 +9,7 @@ section: beaute
 section_title: Beauté
 permalink: beaute/minceur.html
 time: 1h15
-price: 70
+price: 80
 slug: minceur
 links: [tarif, visage, drainage, epilation]
 description: "Pour toutes celles et ceux qui veulent se sentir plus à l'aise dans leurs corps."
