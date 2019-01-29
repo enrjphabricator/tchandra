@@ -9,7 +9,7 @@ section: massages
 section_title: Massages
 permalink: massages/tibetain.html
 time: 1h15
-price: 75
+price: 80
 slug: tibetain
 links: [chinois, chineitsang, thai, tarif]
 good: ["Pour les personnes souffrant de bruxisme, migraines et tensions", "Lâcher prise"]
